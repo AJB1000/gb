@@ -17,7 +17,7 @@
 2 DATE 01 JAN 1968
 2 PLAC Saverne ?
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/10000.jpg
+2 FILE https://github.com/AJB1000/gb/main/photos/10000.jpg
 2 FORM JPG
 1 FAMS @F1@
 0 @I10001@ INDI
@@ -32,7 +32,7 @@
 2 DATE 01 JAN 1969
 2 PLAC Strasbourg
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/10001.jpg
+2 FILE https://github.com/AJB1000/gb/main/photos/10001.jpg
 2 FORM JPG
 1 FAMS @F1@
 0 @I11000@ INDI
@@ -46,7 +46,7 @@
 2 DATE 06 DEC 1962
 2 PLAC Rabat
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F1@
 0 @I12000@ INDI
@@ -60,7 +60,7 @@
 1 DEAT
 2 DATE 01 JAN 1990
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F1@
 0 @I13000@ INDI
@@ -73,7 +73,7 @@
 1 DEAT
 2 DATE 01 JAN 2010
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F1@
 0 @I14000@ INDI
@@ -88,7 +88,7 @@
 2 DATE 10 JUL 1950
 2 PLAC Strasbourg
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMS @F2@
 1 FAMC @F1@
@@ -103,7 +103,7 @@
 1 DEAT
 2 DATE 12 JUN 1994
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F1@
 0 @I14001@ INDI
@@ -118,7 +118,7 @@
 2 DATE 30 AUG 2016
 2 PLAC Dauendiorf
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMS @F2@
 0 @I14100@ INDI
@@ -130,7 +130,7 @@
 2 DATE 26 DEC 1945
 2 PLAC Mertzwiller
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F2@
 0 @I14200@ INDI
@@ -142,7 +142,7 @@
 2 DATE 30 JAN 1947
 2 PLAC Le Mans
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F2@
 0 @I14300@ INDI
@@ -154,7 +154,7 @@
 2 DATE 22 JAN 1948
 2 PLAC La Walck
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F2@
 0 @I14400@ INDI
@@ -166,7 +166,7 @@
 2 DATE 16 JUL 1949
 2 PLAC Vervins
 1 OBJE
-2 FILE https://github.com/AJB1000/gb/blob/main/photos/
+2 FILE https://github.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F2@
 0 @F1@ FAM
