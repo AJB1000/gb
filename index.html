@@ -14,16 +14,18 @@
 <body>
     <header>
         <strong>Arbre Généalogique Interactif</strong>
-        <a href="https://github.com/AJB1000/gd/main/mon_arbre.ged" class="btn-help">Télécharger le fichier .GED</a>
+        <a href="https://raw.githubusercontent.com/AJB1000/gb/refs/heads/main/mon_arbre.ged" class="btn-help">Télécharger le fichier .GED</a>
     </header>
 
     <script>
         const user = "AJB1000";
         const repo = "gb";
-        const gedcomUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/mon_arbre.ged`;
+        const gedcomUrl = `https://raw.githubusercontent.com/AJB1000/gb/refs/heads/main/mon_arbre.ged`;
         const topolaUrl = `https://topola-viewer.jabbado.com/?url=${encodeURIComponent(gedcomUrl)}`;
         
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
 </html>
+
+
