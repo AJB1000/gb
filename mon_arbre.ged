@@ -6,7 +6,7 @@ VERS 5.5.1
 1 NAME Rudolphe /BECKER/
 1 SEX M
 1 OBJE
-2 FILE photos/10000.jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10000.jpg
 2 FORM jpg
 2 TITR Portrait
 1 BIRT
@@ -18,7 +18,7 @@ VERS 5.5.1
 1 NAME Katharina /SPENLENHAUER/
 1 SEX F
 1 OBJE
-2 FILE photos/10001.jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10001.jpg
 2 FORM jpg
 2 TITR Portrait
 1 BIRT
