@@ -12,7 +12,15 @@
 </head>
 <body>
     <script>
-        const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FAJB1000%2Fgb%2Frefs%2Fmain%2Fmon_arbre.ged`;        
+    // On génère un nombre unique basé sur l'heure actuelle
+    const cacheBuster = new Date().getTime();
+    
+    const gedcomUrl = `https://raw.githubusercontent.com/AJB1000/gb/mon_arbre.ged?t=${cacheBuster}`;
+    
+    // On encode l'URL pour Topola
+    const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(gedcomUrl)}`;
+
+        // const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FAJB1000%2Fgb%2Fmain%2Fmon_arbre.ged`;        
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
