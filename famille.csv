@@ -1,6 +1,6 @@
 ID,Nom,Prenom,Sexe,ID_Pere,ID_Mere,Date_Nais,Lieu_Nais,ID_Conjoint,Date_Mariage,Lieu_Mariage,Date_Deces,Lieu_Deces,Photo_URL
-10000,BECKER,Rudolphe,M,,,13/08/1886,,10001,25/04/1916,Bruchsal (D),01/01/1968,Saverne ?,10000.jpg
-10001,SPENLENHAUER,Katharina,F,,,30/11/0188,Bernwiller ?,10000,10/10/1975,Bruchsal (D),01/01/1969,Strasbourg,10001.jpg
+10000,BECKER,Rudolphe,M,,,13/08/1886,,10001,25/04/1916,Bruchsal (D),01/01/1968,Saverne ?,
+10001,SPENLENHAUER,Katharina,F,,,30/11/0188,Bernwiller ?,10000,10/10/1975,Bruchsal (D),01/01/1969,Strasbourg,
 11000,BECKER,Yves,M,10000,10001,01/01/1918,,,,,06/12/1962,Rabat,
 12000,BECKER,Alfred René,M,10000,10001,01/01/1919,Bruchsal (D),,,,01/01/1990,,
 13000,BECKER,Marthe,F,10000,10001,01/01/1921,,,,,01/01/2010,,
@@ -8,7 +8,7 @@ ID,Nom,Prenom,Sexe,ID_Pere,ID_Mere,Date_Nais,Lieu_Nais,ID_Conjoint,Date_Mariage,
 15000,BECKER,Bernard Marcel,M,10000,10001,10/08/1924,Balschwiller,14001,25/11/1947,Bitschwiller les Thann,12/06/1994,,
 14001,FUTTERER,Marie Thérèse,F,,,16/04/1920,Vitry sur Orne,14000,,Willer sur Thur,30/08/2016,Dauendiorf,
 14100,BECKER,Michel,M,14000,14001,,,,,,,,
-14200,BECKER,André,M,14000,14001,,,,,,,,"14200,jpg"
+14200,BECKER,André,M,14000,14001,,,,,,,,
 14300,BECKER,Edouard,M,14000,14001,,,,,,,,
 14400,BECKER,Marie Thérèse,F,14000,14001,,,,,,,,
 14101,,,,,,,,,,,,,

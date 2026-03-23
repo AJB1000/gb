@@ -5,10 +5,6 @@ VERS 5.5.1
 0 @I10000@ INDI
 1 NAME Rudolphe /BECKER/
 1 SEX M
-1 OBJE
-2 FILE https://raw.githubusercontent.com/VOTRE_PSEUDO_GITHUB/VOTRE_NOM_DE_DEPOT/main/photos/10000.jpg
-2 FORM jpg
-2 TITR Portrait
 1 BIRT
 2 DATE 13 AUG 1886
 1 DEAT
@@ -17,10 +13,6 @@ VERS 5.5.1
 0 @I10001@ INDI
 1 NAME Katharina /SPENLENHAUER/
 1 SEX F
-1 OBJE
-2 FILE https://raw.githubusercontent.com/VOTRE_PSEUDO_GITHUB/VOTRE_NOM_DE_DEPOT/main/photos/10001.jpg
-2 FORM jpg
-2 TITR Portrait
 1 BIRT
 2 DATE 30 NOV 188
 2 PLAC Bernwiller ?
@@ -82,10 +74,6 @@ VERS 5.5.1
 0 @I14200@ INDI
 1 NAME André /BECKER/
 1 SEX M
-1 OBJE
-2 FILE https://raw.githubusercontent.com/VOTRE_PSEUDO_GITHUB/VOTRE_NOM_DE_DEPOT/main/photos/14200,jpg
-2 FORM jpg
-2 TITR Portrait
 0 @I14300@ INDI
 1 NAME Edouard /BECKER/
 1 SEX M
