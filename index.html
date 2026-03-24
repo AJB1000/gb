@@ -23,14 +23,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Généalogie Familiale</title>
-        <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; font-family: Arial, sans-serif; }
-        iframe { width: 100%; height: calc(100% - 70px); border: none; }
-        .btn-help { background: white; color: #2e7d32; padding: 5px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; }
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px 20px; background-color: #f4f7f6; }
+        .card { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: inline-block; }
+        .btn { background-color: #2e7d32; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 20px; cursor: pointer; border: none; }
+        .btn:hover { background-color: #1b5e20; }
+        .loader { color: #666; font-size: 0.9em; margin-top: 10px; }
     </style>
 
 </head>
 <body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
+        <div class="card">
+        <h1>🌳 Notre Arbre Généalogique</h1>
+        <p>Cliquez sur le bouton ci-dessous pour ouvrir la dernière version à jour.</p>
+        
+        <button id="openBtn" class="btn">VOIR L'ARBRE (MISE À JOUR)</button>
+        
+        <p class="loader">Les données sont chargées en direct depuis GitHub.</p>
+    </div>
     <script>
         // 1. Configuration
         const user = "AJB1000";
@@ -48,3 +58,6 @@
 </body>
 </html>
 
+
+</head>
+<body>
