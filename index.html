@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -16,9 +16,9 @@
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
-</html>
+</html> -->
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -40,11 +40,11 @@
         // 2. Construction de l'URL avec protection contre le cache
         const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}`;
         const timestamp = new Date().getTime(); 
-        const finalUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}?t=${timestamp}`;
+        const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}?t=${timestamp}`;
 
         // 3. Redirection automatique
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
-</html> -->
+</html>
 
