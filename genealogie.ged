@@ -44,7 +44,7 @@
 2 DATE 01 JAN 1918
 1 DEAT
 2 DATE 06 DEC 1962
-2 PLAC Rabat
+2 PLAC Rabat (MA)
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
@@ -144,6 +144,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
+1 FAMS @F3@
 1 FAMC @F2@
 0 @I14300@ INDI
 1 NAME Edouard /BECKER/
@@ -169,6 +170,18 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
 1 FAMC @F2@
+0 @I14201@ INDI
+1 NAME Michèle /CHAGNARD/
+2 GIVN Michèle
+2 SURN CHAGNARD
+1 SEX F
+1 BIRT
+2 DATE 22 FEB 1953
+2 PLAC Meknès (MA)
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FORM JPG
+1 FAMS @F3@
 0 @F1@ FAM
 1 HUSB @I10000@
 1 WIFE @I10001@
@@ -190,4 +203,10 @@
 1 CHIL @I14200@
 1 CHIL @I14300@
 1 CHIL @I14400@
+0 @F3@ FAM
+1 HUSB @I14200@
+1 WIFE @I14201@
+1 MARR
+2 DATE 22 FEB 2006
+2 PLAC UL
 0 TRLR
