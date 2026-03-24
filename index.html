@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -15,5 +15,32 @@
         const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FAJB1000%2Fgb%2Fmain%2Fgenealogie.ged`;        
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Généalogie Familiale</title>
+    <script>
+        // 1. Configuration
+        const user = "VOTRE_PSEUDO";
+        const repo = "VOTRE_REPO";
+        const file = "mon_arbre.ged";
+        
+        // 2. Construction de l'URL avec protection contre le cache
+        const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}`;
+        const timestamp = new Date().getTime(); 
+        const finalUrl = `https://pewu.github.io/topola-viewer/#/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FAJB1000%2Fgb%2Fmain%2Fgenealogie.ged?t=${timestamp}`;
+
+        // 3. Redirection automatique
+        window.location.href = finalUrl;
+    </script>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
+    <h2>Chargement de l'arbre généalogique...</h2>
+    <p>Si la page ne se charge pas, <a id="link" href="#">cliquez ici</a>.</p>
+    <script>document.getElementById('link').href = finalUrl;</script>
 </body>
 </html>
