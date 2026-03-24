@@ -130,7 +130,7 @@
 2 DATE 26 DEC 1945
 2 PLAC Mertzwiller
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14100.jpg
 2 FORM JPG
 1 FAMC @F2@
 0 @I14200@ INDI
@@ -142,7 +142,7 @@
 2 DATE 30 JAN 1947
 2 PLAC Le Mans
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14200.jpg
 2 FORM JPG
 1 FAMS @F3@
 1 FAMC @F2@
@@ -155,7 +155,7 @@
 2 DATE 22 JAN 1948
 2 PLAC La Walck
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14300.jpg
 2 FORM JPG
 1 FAMC @F2@
 0 @I14400@ INDI
@@ -167,7 +167,7 @@
 2 DATE 16 JUL 1949
 2 PLAC Vervins
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14400.jpg
 2 FORM JPG
 1 FAMC @F2@
 0 @I14201@ INDI
