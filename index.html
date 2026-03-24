@@ -78,7 +78,7 @@
             // On calcule le timestamp EXACTEMENT au moment du clic
             const timestamp = Date.now(); 
             const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}?t=${timestamp}`;
-            const topolaUrl = `https://topola-viewer.jabbado.com/?url=${encodeURIComponent(rawUrl)}`;
+            const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}`;
             
             // Redirection
             window.location.href = topolaUrl;
