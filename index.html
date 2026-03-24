@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -16,13 +16,18 @@
         document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
-</html>
+</html> -->
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>Généalogie Familiale</title>
+        <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; font-family: Arial, sans-serif; }
+        iframe { width: 100%; height: calc(100% - 70px); border: none; }
+        .btn-help { background: white; color: #2e7d32; padding: 5px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; }
+    </style>
     <script>
         // 1. Configuration
         const user = "AJB1000";
@@ -35,13 +40,13 @@
         const finalUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}?t=${timestamp}`;
 
         // 3. Redirection automatique
-        window.location.href = finalUrl;
+        document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </head>
 <body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
-    <h2>Chargement de l'arbre généalogique...</h2>
+    <!-- <h2>Chargement de l'arbre généalogique...</h2>
     <p>Si la page ne se charge pas, <a id="link" href="#">cliquez ici</a>.</p>
-    <script>document.getElementById('link').href = finalUrl;</script>
+    <script>document.getElementById('link').href = finalUrl;</script> -->
 </body>
-</html> -->
+</html>
 
