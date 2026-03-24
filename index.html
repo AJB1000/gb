@@ -25,7 +25,6 @@
     <title>Généalogie Familiale</title>
     <style>
         body { font-family: sans-serif; text-align: center; padding: 50px 20px; background-color: #f4f7f6; }
-        iframe { width: 100% !important; height: calc(100% - 70px) !important; border: none !important; }
         .card { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: inline-block; }
         .btn { background-color: #2e7d32; color: white; padding: 5px 5px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 20px; cursor: pointer; border: none; }
         .btn:hover { background-color: #1b5e20; }
@@ -52,7 +51,7 @@
             const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}`;
             
             // 3. iframe
-            document.write(`<iframe src="${topolaUrl}" style="width: 100%; border: none"></iframe>`);
+            document.write(`<iframe src="${topolaUrl}" style="width: 100%;  height: calc(100% - 70px);border: none"></iframe>`);
         });
     </script>
 </body>
