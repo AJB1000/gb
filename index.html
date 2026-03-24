@@ -63,6 +63,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Généalogie Familiale</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px 20px; background-color: #f4f7f6; }
+        iframe { width: 100%; height: calc(100% - 70px); border: none; }
+        .loader { color: #666; font-size: 0.9em; margin-top: 10px; }
+    </style>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
     <script>
         // 1. Configuration
             const user = "AJB1000";
@@ -75,10 +82,10 @@
         const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}`;
 
         // 3. iframe
-        document.write(`<iframe src="${topolaUrl}" style="width: 100%; height: calc(100% - 70px); border: none"></iframe>`);
+        document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
-</head>
-<body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
-    <h2>Chargement de l'arbre généalogique...</h2>
+</body>
+</html>
+    <!-- <h2>Chargement de l'arbre généalogique...</h2>
     <p>Si la page ne se charge pas, <a id="link" href="#">cliquez ici</a>.</p>
-    <script>document.getElementById('link').href = finalUrl;</script>
+    <script>document.getElementById('link').href = topolaUrl;</script> -->
