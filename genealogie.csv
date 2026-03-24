@@ -46,11 +46,11 @@ ID,Nom,Prenom,Sexe,ID_Pere,ID_Mere,Date_Nais,Lieu_Nais,ID_Conjoint,Date_Mariage,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-10000,BECKER,Rudolphe,M,,,13/08/1886,,,,,01/01/1968,Saverne ?,10000.jpg
-10001,SPENLENHAUER,Katharina,F,,,30/11/1888,Bernwiller ?,10000,25/04/1916,Bruchsal (D),01/01/1969,Strasbourg,10001.jpg
-11000,BECKER,Yves,M,10000,10001,01/01/1918,,,,,06/12/1962,Rabat (MA),
-12000,BECKER,Alfred René,M,10000,10001,01/01/1919,Bruchsal (D),,,,01/01/1990,,
-13000,BECKER,Marthe,F,10000,10001,01/01/1921,,,,,01/01/2010,,
+10000,BECKER,Rudolphe,M,,,13/08/1886,,,,,1968,Saverne ?,10000.jpg
+10001,SPENLENHAUER,Katharina,F,,,30/11/1888,Bernwiller ?,10000,25/04/1916,Bruchsal (D),1969,Strasbourg,10001.jpg
+11000,BECKER,Yves,M,10000,10001,1918,,,,,06/12/1962,Rabat (MA),
+12000,BECKER,Alfred René,M,10000,10001,1919,Bruchsal (D),,,,1990,,
+13000,BECKER,Marthe,F,10000,10001,1921,,,,,2010,,
 14000,BECKER,Edouard,M,10000,10001,28/03/1922,Mannheim (D),,,,10/07/1950,Strasbourg,14000.jpg
 15000,BECKER,Bernard Marcel,M,10000,10001,10/08/1924,Balschwiller,,,,12/06/1994,,
 14001,FUTTERER,Marie Thérèse,F,,,16/04/1920,Vitry sur Orne,14000,25/11/1947,Willer sur Thur,30/08/2016,Dauendiorf,14001.jpg

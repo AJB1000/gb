@@ -198,7 +198,7 @@
 1 BIRT
 2 DATE 13 AUG 1886
 1 DEAT
-2 DATE 01 JAN 1968
+2 DATE 1968
 2 PLAC Saverne ?
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10000.jpg
@@ -213,7 +213,7 @@
 2 DATE 30 NOV 1888
 2 PLAC Bernwiller ?
 1 DEAT
-2 DATE 01 JAN 1969
+2 DATE 1969
 2 PLAC Strasbourg
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10001.jpg
@@ -225,7 +225,7 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 01 JAN 1918
+2 DATE 1918
 1 DEAT
 2 DATE 06 DEC 1962
 2 PLAC Rabat (MA)
@@ -239,10 +239,10 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 01 JAN 1919
+2 DATE 1919
 2 PLAC Bruchsal (D)
 1 DEAT
-2 DATE 01 JAN 1990
+2 DATE 1990
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
@@ -253,9 +253,9 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 01 JAN 1921
+2 DATE 1921
 1 DEAT
-2 DATE 01 JAN 2010
+2 DATE 2010
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
