@@ -32,28 +32,26 @@
 
 </head>
 <body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
-
-        
-        <button id="openBtn" class="btn">Mise à jour</button>
+    <button id="openBtn" class="btn">Mise à jour</button>
         
         <p class="loader">Les données sont chargées en direct depuis GitHub.</p>
     <script>
-        // 1. Configuration
-        const user = "AJB1000";
-        const repo = "gb";
-        const file = "genealogie.ged";
-        
-        // 2. Construction de l'URL avec protection contre le cache
-        const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}`;
-        const timestamp = new Date().getTime(); 
-        const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}?t=${timestamp}`;
+        document.getElementById('openBtn').addEventListener('click', function() {
+            const user = "AJB1000";
+            const repo = "gb";
+            const file = "genealogie.ged";
+            
+            // On calcule le timestamp EXACTEMENT au moment du clic
+            const timestamp = Date.now(); 
+            const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}?t=${timestamp}`;
+            const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}`;
+            
+            // 3. Redirection automatique
+            document.write(`<iframe src="${topolaUrl}"></iframe>`);
+        });
 
-        // 3. Redirection automatique
-        document.write(`<iframe src="${topolaUrl}"></iframe>`);
     </script>
 </body>
 </html>
 
 
-</head>
-<body>
