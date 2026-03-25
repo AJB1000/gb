@@ -158,9 +158,11 @@
 2 SURN NEU
 1 SEX F
 1 BIRT
-2 DATE 18 JAN 1727
+2 DATE 18 JAN 1737
+2 PLAC Weiher (D)
 1 DEAT
 2 DATE 19 OCT 1813
+2 PLAC Weiher (D)
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
@@ -171,7 +173,26 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 1758
+2 DATE 28 OCT 1758
+2 PLAC Weiher (D)
+1 DEAT
+2 DATE 13 MAY 1823
+2 PLAC Weiher (D)
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FORM JPG
+1 FAMC @F5@
+0 @I7.1@ INDI
+1 NAME Jacob /BECKER/
+2 GIVN Jacob
+2 SURN BECKER
+1 SEX M
+1 BIRT
+2 DATE 23 1 1760
+2 PLAC Weiher (D)
+1 DEAT
+2 DATE 23 MAR 1760
+2 PLAC Weiher (D)
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
@@ -183,8 +204,10 @@
 1 SEX M
 1 BIRT
 2 DATE 18 3 1761
+2 PLAC Weiher (D)
 1 DEAT
 2 DATE 28 JUN 1821
+2 PLAC Weiher (D)
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
@@ -893,7 +916,11 @@
 0 @F5@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
+1 MARR
+2 DATE 01 JAN 1757
+2 PLAC Weiher (D)
 1 CHIL @I7@
+1 CHIL @I7.1@
 1 CHIL @I8@
 1 CHIL @I9@
 1 CHIL @I10@
