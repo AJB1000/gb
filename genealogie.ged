@@ -6,6 +6,28 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 LANG French
+0 @IA1@ INDI
+1 NAME Jacob /BECKER/
+2 GIVN Jacob
+2 SURN BECKER
+1 SEX M
+1 BIRT
+2 DATE 1586
+1 DEAT
+2 DATE 1652
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FORM JPG
+1 FAMS @F1@
+0 @IA2@ INDI
+1 NAME N.N. /NN/
+2 GIVN N.N.
+2 SURN NN
+1 SEX F
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FORM JPG
+1 FAMS @F1@
 0 @I1@ INDI
 1 NAME Hans Jacob /BECKER/
 2 GIVN Hans Jacob
@@ -18,20 +40,21 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F1@
+1 FAMS @F2@
+1 FAMC @F1@
 0 @I2@ INDI
-1 NAME Anna Maria /?/
+1 NAME Anna Maria /NN/
 2 GIVN Anna Maria
-2 SURN ?
+2 SURN NN
 1 SEX F
 1 BIRT
-2 DATE 1650
+2 DATE 1630
 1 DEAT
-2 DATE 1702
+2 DATE 08/1702
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F1@
+1 FAMS @F2@
 0 @I3@ INDI
 1 NAME Valentin Bernhard /BECKER/
 2 GIVN Valentin Bernhard
@@ -39,13 +62,24 @@
 1 SEX M
 1 BIRT
 2 DATE 1680
-1 DEAT
-2 DATE 1777
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F2@
-1 FAMC @F1@
+1 FAMS @F3@
+1 FAMC @F2@
+0 @I3,1@ INDI
+1 NAME Jakob (Joducus) /BECKER/
+2 GIVN Jakob (Joducus)
+2 SURN BECKER
+1 SEX M
+1 BIRT
+2 DATE 1660
+1 DEAT
+2 DATE 06 FEB 1730
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FORM JPG
+1 FAMC @F2@
 0 @I4@ INDI
 1 NAME Maria Margaretha /BURK/
 2 GIVN Maria Margaretha
@@ -58,7 +92,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F2@
+1 FAMS @F3@
 0 @I5@ INDI
 1 NAME Andreas Caspar /BECKER/
 2 GIVN Andreas Caspar
@@ -71,8 +105,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F3@
-1 FAMC @F2@
+1 FAMS @F4@
+1 FAMC @F3@
 0 @I6@ INDI
 1 NAME Maria Eva Barbara /NEU/
 2 GIVN Maria Eva Barbara
@@ -85,7 +119,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F3@
+1 FAMS @F4@
 0 @I7@ INDI
 1 NAME Andreas /BECKER/
 2 GIVN Andreas
@@ -96,7 +130,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I8@ INDI
 1 NAME Johann Jakob /BECKER/
 2 GIVN Johann Jakob
@@ -109,8 +143,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F4@
-1 FAMC @F3@
+1 FAMS @F5@
+1 FAMC @F4@
 0 @I9@ INDI
 1 NAME Eva Barbara /BECKER/
 2 GIVN Eva Barbara
@@ -123,7 +157,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I10@ INDI
 1 NAME Christian /BECKER/
 2 GIVN Christian
@@ -136,7 +170,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I11@ INDI
 1 NAME Maria Elisabeth /BECKER/
 2 GIVN Maria Elisabeth
@@ -149,7 +183,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I12@ INDI
 1 NAME Anna Eva /BECKER/
 2 GIVN Anna Eva
@@ -162,7 +196,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I13@ INDI
 1 NAME Johann Nikolaus /BECKER/
 2 GIVN Johann Nikolaus
@@ -173,7 +207,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I14@ INDI
 1 NAME Johann Wilhelm /BECKER/
 2 GIVN Johann Wilhelm
@@ -186,7 +220,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I15@ INDI
 1 NAME Johann Caspar /BECKER/
 2 GIVN Johann Caspar
@@ -199,7 +233,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F3@
+1 FAMC @F4@
 0 @I16@ INDI
 1 NAME Eva Katharina /HERZOG/
 2 GIVN Eva Katharina
@@ -212,7 +246,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F4@
+1 FAMS @F5@
 0 @I17@ INDI
 1 NAME Andreas /BECKER/
 2 GIVN Andreas
@@ -226,7 +260,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I18@ INDI
 1 NAME Maria /BECKER/
 2 GIVN Maria
@@ -239,7 +273,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I19@ INDI
 1 NAME Andreas /BECKER/
 2 GIVN Andreas
@@ -250,9 +284,10 @@
 1 DEAT
 2 DATE 25 JAN 1787
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/23.jpg
 2 FORM JPG
-1 FAMC @F4@
+1 WWW https://heimatverein-ubstadt-weiher.de/historische-grabsteine/
+1 FAMC @F5@
 0 @I20@ INDI
 1 NAME Johann Caspar /BECKER/
 2 GIVN Johann Caspar
@@ -263,7 +298,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I21@ INDI
 1 NAME Andreas /BECKER/
 2 GIVN Andreas
@@ -276,7 +311,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I22@ INDI
 1 NAME Valentin /BECKER/
 2 GIVN Valentin
@@ -290,8 +325,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F5@
-1 FAMC @F4@
+1 FAMS @F6@
+1 FAMC @F5@
 0 @I23@ INDI
 1 NAME Joseph Bernhard /BECKER/
 2 GIVN Joseph Bernhard
@@ -304,7 +339,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I24@ INDI
 1 NAME Georg Wendelin /BECKER/
 2 GIVN Georg Wendelin
@@ -315,7 +350,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F4@
+1 FAMC @F5@
 0 @I25@ INDI
 1 NAME Eva Magdalena /MEISTER/
 2 GIVN Eva Magdalena
@@ -328,7 +363,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F5@
+1 FAMS @F6@
 0 @I26@ INDI
 1 NAME Johann Ferdinand /BECKER/
 2 GIVN Johann Ferdinand
@@ -341,8 +376,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F6@
-1 FAMC @F5@
+1 FAMS @F7@
+1 FAMC @F6@
 0 @I27@ INDI
 1 NAME Maria Luise /BECKER/
 2 GIVN Maria Luise
@@ -353,61 +388,67 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I28@ INDI
 1 NAME Franz Joseph /BECKER/
 2 GIVN Franz Joseph
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 09 JUN 1824
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I29@ INDI
 1 NAME Leo /BECKER/
 2 GIVN Leo
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 08 AUG 1826
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I30@ INDI
 1 NAME Albertina ou Antonia /BECKER/
 2 GIVN Albertina ou Antonia
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 27 SEP 1829
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I31@ INDI
 1 NAME Johann Michael /BECKER/
 2 GIVN Johann Michael
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 23 OCT 1832
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I32@ INDI
 1 NAME Jakob /BECKER/
 2 GIVN Jakob
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 17 JAN 1835
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F5@
+1 FAMC @F6@
 0 @I33@ INDI
 1 NAME Franziska /MUNCH/
 2 GIVN Franziska
 2 SURN MUNCH
+1 SEX F
 1 BIRT
 2 DATE 03 DEC 1821
 1 DEAT
@@ -415,11 +456,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F6@
+1 FAMS @F7@
 0 @I34@ INDI
 1 NAME Adolph /BECKER/
 2 GIVN Adolph
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 06 MAY 1848
 1 DEAT
@@ -427,21 +469,23 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I35@ INDI
 1 NAME Theodor /BECKER/
 2 GIVN Theodor
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 18 SEP 1847
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I36@ INDI
 1 NAME Reinhard /BECKER/
 2 GIVN Reinhard
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 19 JAN 1850
 1 DEAT
@@ -449,22 +493,24 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F7@
-1 FAMC @F6@
+1 FAMS @F8@
+1 FAMC @F7@
 0 @I37@ INDI
 1 NAME Valentin /BECKER/
 2 GIVN Valentin
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 17 JAN 1853
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I38@ INDI
 1 NAME Anton /BECKER/
 2 GIVN Anton
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 25 JUN 1857
 1 DEAT
@@ -472,11 +518,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I39@ INDI
 1 NAME Anna /BECKER/
 2 GIVN Anna
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 02 JAN 1860
 1 DEAT
@@ -484,11 +531,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I40@ INDI
 1 NAME Anna /BECKER/
 2 GIVN Anna
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 27 JAN 1863
 1 DEAT
@@ -496,11 +544,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F6@
+1 FAMC @F7@
 0 @I41@ INDI
 1 NAME Sophia /GARTNER/
 2 GIVN Sophia
 2 SURN GARTNER
+1 SEX F
 1 BIRT
 2 DATE 25 DEC 1851
 1 DEAT
@@ -508,11 +557,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMS @F7@
+1 FAMS @F8@
 0 @I42@ INDI
 1 NAME Karolina /BECKER/
 2 GIVN Karolina
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 05 DEC 1874
 1 DEAT
@@ -520,31 +570,34 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F7@
+1 FAMC @F8@
 0 @I43@ INDI
 1 NAME Ferdinand /BECKER/
 2 GIVN Ferdinand
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 24 MAR 1876
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F7@
+1 FAMC @F8@
 0 @I44@ INDI
 1 NAME Maria Theresia /BECKER/
 2 GIVN Maria Theresia
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 18 JUN 1877
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F7@
+1 FAMC @F8@
 0 @I45@ INDI
 1 NAME Bertha /BECKER/
 2 GIVN Bertha
 2 SURN BECKER
+1 SEX F
 1 BIRT
 2 DATE 05 OCT 1882
 1 DEAT
@@ -552,11 +605,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F7@
+1 FAMC @F8@
 0 @I46@ INDI
 1 NAME Linus Ruppert /BECKER/
 2 GIVN Linus Ruppert
 2 SURN BECKER
+1 SEX M
 1 BIRT
 2 DATE 22 DEC 1884
 1 DEAT
@@ -564,7 +618,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F7@
+1 FAMC @F8@
 0 @I10000@ INDI
 1 NAME Rudolphe /BECKER/
 2 GIVN Rudolphe
@@ -578,8 +632,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10000.jpg
 2 FORM JPG
-1 FAMS @F8@
-1 FAMC @F7@
+1 FAMS @F9@
+1 FAMC @F8@
 0 @I10001@ INDI
 1 NAME Katharina /SPENLENHAUER/
 2 GIVN Katharina
@@ -594,7 +648,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10001.jpg
 2 FORM JPG
-1 FAMS @F8@
+1 FAMS @F9@
 0 @I11000@ INDI
 1 NAME Yves /BECKER/
 2 GIVN Yves
@@ -608,7 +662,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F8@
+1 FAMC @F9@
 0 @I12000@ INDI
 1 NAME Alfred René /BECKER/
 2 GIVN Alfred René
@@ -622,7 +676,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F8@
+1 FAMC @F9@
 0 @I13000@ INDI
 1 NAME Marthe /BECKER/
 2 GIVN Marthe
@@ -635,7 +689,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F8@
+1 FAMC @F9@
 0 @I14000@ INDI
 1 NAME Edouard /BECKER/
 2 GIVN Edouard
@@ -650,8 +704,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14000.jpg
 2 FORM JPG
-1 FAMS @F9@
-1 FAMC @F8@
+1 FAMS @F10@
+1 FAMC @F9@
 0 @I15000@ INDI
 1 NAME Bernard Marcel /BECKER/
 2 GIVN Bernard Marcel
@@ -665,7 +719,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/
 2 FORM JPG
-1 FAMC @F8@
+1 FAMC @F9@
 0 @I14001@ INDI
 1 NAME Marie Thérèse /FUTTERER/
 2 GIVN Marie Thérèse
@@ -680,7 +734,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
 2 FORM JPG
-1 FAMS @F9@
+1 FAMS @F10@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -692,7 +746,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14100.jpg
 2 FORM JPG
-1 FAMC @F9@
+1 FAMC @F10@
 0 @I14200@ INDI
 1 NAME André /BECKER/
 2 GIVN André
@@ -704,8 +758,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14200.jpg
 2 FORM JPG
-1 FAMS @F10@
-1 FAMC @F9@
+1 FAMS @F11@
+1 FAMC @F10@
 0 @I14300@ INDI
 1 NAME Edouard /BECKER/
 2 GIVN Edouard
@@ -717,7 +771,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14300.jpg
 2 FORM JPG
-1 FAMC @F9@
+1 FAMC @F10@
 0 @I14400@ INDI
 1 NAME Marie Thérèse /BECKER/
 2 GIVN Marie Thérèse
@@ -729,7 +783,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14400.jpg
 2 FORM JPG
-1 FAMC @F9@
+1 FAMC @F10@
 0 @I14201@ INDI
 1 NAME Michèle /CHAGNARD/
 2 GIVN Michèle
@@ -741,16 +795,23 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14201.jpg
 2 FORM JPG
-1 FAMS @F10@
+1 FAMS @F11@
 0 @F1@ FAM
+1 HUSB @IA1@
+1 WIFE @IA2@
+1 CHIL @I1@
+0 @F2@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
+1 MARR
+2 DATE 1651
 1 CHIL @I3@
-0 @F2@ FAM
+1 CHIL @I3,1@
+0 @F3@ FAM
 1 HUSB @I3@
 1 WIFE @I4@
 1 CHIL @I5@
-0 @F3@ FAM
+0 @F4@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
 1 CHIL @I7@
@@ -762,7 +823,7 @@
 1 CHIL @I13@
 1 CHIL @I14@
 1 CHIL @I15@
-0 @F4@ FAM
+0 @F5@ FAM
 1 HUSB @I8@
 1 WIFE @I16@
 1 MARR
@@ -776,7 +837,7 @@
 1 CHIL @I22@
 1 CHIL @I23@
 1 CHIL @I24@
-0 @F5@ FAM
+0 @F6@ FAM
 1 HUSB @I22@
 1 WIFE @I25@
 1 MARR
@@ -789,7 +850,7 @@
 1 CHIL @I30@
 1 CHIL @I31@
 1 CHIL @I32@
-0 @F6@ FAM
+0 @F7@ FAM
 1 HUSB @I26@
 1 WIFE @I33@
 1 MARR
@@ -802,7 +863,7 @@
 1 CHIL @I38@
 1 CHIL @I39@
 1 CHIL @I40@
-0 @F7@ FAM
+0 @F8@ FAM
 1 HUSB @I36@
 1 WIFE @I41@
 1 MARR
@@ -813,7 +874,7 @@
 1 CHIL @I45@
 1 CHIL @I46@
 1 CHIL @I10000@
-0 @F8@ FAM
+0 @F9@ FAM
 1 HUSB @I10000@
 1 WIFE @I10001@
 1 MARR
@@ -824,7 +885,7 @@
 1 CHIL @I13000@
 1 CHIL @I14000@
 1 CHIL @I15000@
-0 @F9@ FAM
+0 @F10@ FAM
 1 HUSB @I14000@
 1 WIFE @I14001@
 1 MARR
@@ -834,7 +895,7 @@
 1 CHIL @I14200@
 1 CHIL @I14300@
 1 CHIL @I14400@
-0 @F10@ FAM
+0 @F11@ FAM
 1 HUSB @I14200@
 1 WIFE @I14201@
 1 MARR
