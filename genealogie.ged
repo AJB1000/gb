@@ -15,7 +15,7 @@
 2 DATE 1586
 1 DEAT
 2 DATE 1652
-1 WWW https://gedbas.genealogy.net/person/show/1419165426 target="_self"""
+1 WWW https://gedbas.genealogy.net/person/show/1419165426
 1 FAMS @F1@
 0 @IA2@ INDI
 1 NAME N.N. /NN/
@@ -140,6 +140,7 @@
 1 DEAT
 2 DATE 19 OCT 1813
 2 PLAC Weiher (D)
+1 WWW https://www.google.com/maps/search/?api=1&query=49.1833,8.6333
 1 FAMS @F5@
 0 @I7@ INDI
 1 NAME Andreas /BECKER/
