@@ -1,5 +1,5 @@
 ID,Nom,Prenom,Sexe,ID_Pere,ID_Mere,Date_Nais,Lieu_Nais,ID_Conjoint,Date_Mariage,Lieu_Mariage,Date_Deces,Lieu_Deces,Photo_URL,WWW,,
-A1,BECKER,Jacob,M,,,1586,,,1607,,1652,,,,,
+A1,BECKER,Jacob,M,,,1586,,,1607,,1652,,,"https://maps.app.goo.gl/3ZkcrWUrqbk7vv6q8https://gedbas.genealogy.net/person/show/1419165426",https://maps.app.goo.gl/3ZkcrWUrqbk7vv6q8,https://gedbas.genealogy.net/person/show/1419165426
 A2,NN,N.N.,F,,,1586,,A1,1607,,1652,,,,,
 1,BECKER,Hans Jacob,M,A1,A2,1630,,,,,02/01/1725,,,,,
 2,NN,Anna Maria,F,,,1630,,1,1651,,08/1702,,,,,
@@ -20,7 +20,7 @@ A2,NN,N.N.,F,,,1586,,A1,1607,,1652,,,,,
 11,BECKER,Maria Elisabeth,F,5,6,09/05/1765,Weiher (D),,,,10/02/1769,Weiher (D),,,,
 12,BECKER,Anna Eva,F,5,6,28/09/1767,Weiher (D),,,,05/02/1769,Weiher (D),,,,
 13,BECKER,Johann Nikolaus,M,5,6,19/02/1770,Weiher (D),,,,21/12/1819,Weiher (D),,,,
-14,BECKER,Johann Wilhelm,M,5,6,21/08/1772,Weiher (D),,,,11/06/1775,Weiher (D),,https://maps.app.goo.gl/3ZkcrWUrqbk7vv6q8\nhttps://gedbas.genealogy.net/person/show/1419165426,https://maps.app.goo.gl/3ZkcrWUrqbk7vv6q8,https://gedbas.genealogy.net/person/show/1419165426
+14,BECKER,Johann Wilhelm,M,5,6,21/08/1772,Weiher (D),,,,11/06/1775,Weiher (D),,,,
 15,BECKER,Johann Caspar,M,5,6,05/08/1775,Weiher (D),,,,26/05/1782,Weiher (D),,,,
 16,HERZOG,Eva Katharina ,F,,,13/11/1746,Weiher (D),8,17/02/1784,Weiher (D),04/12/1798,Weiher (D),,,,
 16.1,BENDER,Margaretha,F,,,1775,Roth (D),8,16/02/1801,Weiher (D),15/08/1857,Weiher (D),,,,
