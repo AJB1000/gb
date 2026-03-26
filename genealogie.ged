@@ -15,7 +15,12 @@
 2 DATE 1586
 1 DEAT
 2 DATE 1652
-1 WWW https://gedbas.genealogy.net/person/show/1419165426
+1 NOTE L'origine de la famille BECKER se trouve à Weiher (Ubstadt)
+2 CONC à environ 30km au nord de Karlsruhe.
+2 CONC https://www.google.com/maps/place/@49.1833,8.6333,14z.
+2 CONC  Vous pouvez retrouver des traces de la famille en partant
+2 CONC de l'Ancêtre sur :
+2 CONC https://gedbas.genealogy.net/person/show/1419165426.
 1 FAMS @F1@
 0 @IA2@ INDI
 1 NAME N.N. /NN/
@@ -140,7 +145,6 @@
 1 DEAT
 2 DATE 19 OCT 1813
 2 PLAC Weiher (D)
-1 WWW https://www.google.com/maps/search/?api=1&query=49.1833,8.6333
 1 FAMS @F5@
 0 @I7@ INDI
 1 NAME Andreas /BECKER/
@@ -186,7 +190,6 @@
 1 DEAT
 2 DATE 28 JUN 1821
 2 PLAC Weiher (D)
-1 WWW https://www.google.com/maps/place/@49.1833,8.6333,14z
 1 FAMS @F6@
 1 FAMS @F7@
 1 FAMC @F5@
@@ -735,8 +738,8 @@
 2 FORM JPG
 1 FAMS @F11@
 0 @I11000@ INDI
-1 NAME Yves /BECKER/
-2 GIVN Yves
+1 NAME Rudolphe /BECKER/
+2 GIVN Rudolphe
 2 SURN BECKER
 1 SEX M
 1 BIRT
