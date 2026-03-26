@@ -1,5 +1,5 @@
 ID,Nom,Prenom,Sexe,ID_Pere,ID_Mere,Date_Nais,Lieu_Nais,ID_Conjoint,Date_Mariage,Lieu_Mariage,Date_Deces,Lieu_Deces,Photo_URL,WWW
-A1,BECKER,Jacob,M,,,1586,,,1607,,1652,,,https://gedbas.genealogy.net/person/show/1419165426
+A1,BECKER,Jacob,M,,,1586,,,1607,,1652,,,"https://gedbas.genealogy.net/person/show/1419165426 target=""_self"""
 A2,NN,N.N.,F,,,1586,,A1,1607,,1652,,,
 1,BECKER,Hans Jacob,M,A1,A2,1630,,,,,02/01/1725,,,
 2,NN,Anna Maria,F,,,1630,,1,1651,,08/1702,,,
