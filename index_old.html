@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Généalogie de la Famille</title>
+    <style>
+        /* body { font-family: sans-serif; text-align: center; padding: 50px 20px; background-color: #f4f7f6; } */
+        iframe { width: 100%; height: 100%; border: none; }
+        /* .loader { color: #666; font-size: 0.9em; margin-top: 10px; } */
+    </style>
+</head>
+<body style="font-family: sans-serif; height:100vh; width:100vw">
+    <script>
+        // 1. Configuration
+            const user = "AJB1000";
+            const repo = "gb";
+            const file = "genealogie.ged";
+        
+        // 2. Construction de l'URL avec protection contre le cache
+        const timestamp = Date.now(); 
+        const rawUrl = `https://raw.githubusercontent.com/${user}/${repo}/main/${file}?t=${timestamp}`;
+        const topolaUrl = `https://pewu.github.io/topola-viewer/#/view?url=${encodeURIComponent(rawUrl)}`;
+
+        // 3. iframe
+        document.write(`<iframe src="${topolaUrl}" style="width: 100%; height: 100%; border: none;"></iframe>`);
+    </script>
+</body>
+</html>
+

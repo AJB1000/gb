@@ -15,12 +15,14 @@
 2 DATE 1586
 1 DEAT
 2 DATE 1652
-1 NOTE L'origine de la famille BECKER se trouve à Weiher (Ubstadt)
-2 CONC à environ 30km au nord de Karlsruhe.
-2 CONC https://AJB1000.github.io/gb/map.html?lat=49.1833&long=8.6333
-2 CONC  .Vous pouvez retrouver des traces de la famille en partant
-2 CONC de l'Ancêtre sur :
-2 CONC https://gedbas.genealogy.net/person/show/1419165426
+1 WWW https://www.google.com/maps/place/@49.1833,8.6333,14z
+1 WWW https://gedbas.genealogy.net/person/show/1419165426
+1 NOTE L'origine de la famille BECKER se trouve à Weiher 
+2 CONC (Ubstadt)  à environ 30km au nord de Karlsruhe. Le 
+2 CONC premier lien ci-dessous ouvre google maps.
+Vous pouvez 
+2 CONC retrouver des traces de la famille en partant de 
+2 CONC l'Ancêtre sur le deuxième lien. 
 1 FAMS @F1@
 0 @IA2@ INDI
 1 NAME N.N. /NN/
@@ -120,6 +122,10 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/23.jpg
 2 FORM JPG
 1 WWW https://heimatverein-ubstadt-weiher.de/historische-grabsteine/
+1 NOTE Il y a un doute sur cette personne. Prénom et nom 
+2 CONC concordent ainsi que le prénom de l'épouse et le 
+2 CONC métier. Cependant le nom de l'épouse, le jour du décès 
+2 CONC et l'âge du défunt ne concordent pas. 
 1 FAMS @F5@
 1 FAMC @F3@
 0 @I4.11@ INDI
