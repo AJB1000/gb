@@ -939,7 +939,7 @@ Vous pouvez
 2 DATE 10 20 01
 2 PLAC Sausheim
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15001,jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15001.jpg
 2 FORM JPG
 1 FAMS @F20@
 0 @I15200@ INDI
@@ -1028,7 +1028,7 @@ Vous pouvez
 2 DATE 12 JUL 1948
 2 PLAC Thann
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15100,jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15100.jpg
 2 FORM JPG
 1 FAMS @F23@
 1 FAMC @F20@
@@ -1041,7 +1041,7 @@ Vous pouvez
 2 DATE 03 APR 1948
 2 PLAC Dalat (Vietnam)
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15101,jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15101.jpg
 2 FORM JPG
 1 FAMS @F23@
 0 @I15300@ INDI
@@ -1065,7 +1065,7 @@ Vous pouvez
 2 DATE 11 JUN 1954
 2 PLAC Thann
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15400,jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15400.jpg
 2 FORM JPG
 1 FAMS @F26@
 1 FAMC @F20@
@@ -1100,7 +1100,7 @@ Vous pouvez
 2 DATE 2 26 19
 2 PLAC Stes Marie de la Mer
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15401,jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15401.jpg
 2 FORM JPG
 1 FAMS @F26@
 0 @I15402@ INDI
