@@ -122,10 +122,10 @@ Vous pouvez
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/23.jpg
 2 FORM JPG
 1 WWW https://heimatverein-ubstadt-weiher.de/historische-grabsteine/
-1 NOTE Il y a un doute sur cette personne. Prénom et nom 
-2 CONC concordent ainsi que le prénom de l'épouse et le 
-2 CONC métier. Cependant le nom de l'épouse, le jour du décès 
-2 CONC et l'âge du défunt ne concordent pas. 
+1 NOTE Cette croix est-elle celle d'Andreas Caspar ? Il y a un 
+2 CONC doute : prénom et nom concordent ainsi que le prénom de 
+2 CONC l'épouse et le métier. Cependant le nom de l'épouse, le 
+2 CONC jour du décès et l'âge du défunt ne concordent pas. 
 1 FAMS @F5@
 1 FAMC @F3@
 0 @I4.11@ INDI
@@ -733,6 +733,7 @@ Vous pouvez
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
 2 FORM JPG
 1 FAMS @F12@
+1 FAMC @F24@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -989,7 +990,7 @@ Vous pouvez
 1 BIRT
 2 DATE 22 OCT 1999
 2 PLAC Colmar
-1 FAMC @F23@
+1 FAMC @F25@
 0 @I15205@ INDI
 1 NAME Elijah /BAKIS/
 2 GIVN Elijah
@@ -998,7 +999,7 @@ Vous pouvez
 1 BIRT
 2 DATE 23 FEB 2003
 2 PLAC Strasbourg
-1 FAMC @F23@
+1 FAMC @F25@
 0 @I15206@ INDI
 1 NAME Jennifer /BRICE/
 2 GIVN Jennifer
@@ -1017,6 +1018,30 @@ Vous pouvez
 2 DATE 29 MAY 2016
 2 PLAC Strasbourg
 1 FAMC @F22@
+0 @I114001@ INDI
+1 NAME Joseph Joachim /FUTTERER/
+2 GIVN Joseph Joachim
+2 SURN FUTTERER
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 1897
+2 PLAC La Walck
+1 DEAT
+2 DATE 1943
+2 PLAC Mertzwiller
+1 FAMS @F23@
+0 @I114002@ INDI
+1 NAME Madeleine /RUCH/
+2 GIVN Madeleine
+2 SURN RUCH
+1 SEX F
+1 BIRT
+2 DATE 30 DEC 1895
+2 PLAC Mertzwiller
+1 DEAT
+2 DATE 28 DEC 1983
+2 PLAC Mertzwiller
+1 FAMS @F23@
 0 @F1@ FAM
 1 HUSB @IA1@
 1 WIFE @IA2@
@@ -1186,6 +1211,9 @@ Vous pouvez
 0 @F21@ FAM
 1 HUSB @I15201@
 1 WIFE @I15200@
+1 MARR
+2 DATE 25 JUL 1980
+2 PLAC Morschwiller le Bas
 1 CHIL @I15202@
 1 CHIL @I15203@
 0 @F22@ FAM
@@ -1193,6 +1221,13 @@ Vous pouvez
 1 WIFE @I15206@
 1 CHIL @I15207@
 0 @F23@ FAM
+1 HUSB @I114001@
+1 WIFE @I114002@
+0 @F24@ FAM
+1 HUSB @I30000@
+1 WIFE @I30001@
+1 CHIL @I14001@
+0 @F25@ FAM
 1 HUSB @I15202@
 1 CHIL @I15204@
 1 CHIL @I15205@
