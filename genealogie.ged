@@ -716,6 +716,9 @@ Vous pouvez
 2 PLAC Balschwiller
 1 DEAT
 2 DATE 12 JUN 1994
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15000.jpg
+2 FORM JPG
 1 FAMS @F20@
 1 FAMC @F11@
 0 @I14001@ INDI
