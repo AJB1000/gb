@@ -133,7 +133,7 @@ Vous pouvez
 2 GIVN 1
 2 SURN ENFANT(S)
 1 SEX F
-1 FAMC @F4@
+1 FAMC @F24@
 0 @I6@ INDI
 1 NAME Maria Eva Barbara /NEU/
 2 GIVN Maria Eva Barbara
@@ -733,7 +733,7 @@ Vous pouvez
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
 2 FORM JPG
 1 FAMS @F12@
-1 FAMC @F24@
+1 FAMC @F23@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -1018,7 +1018,7 @@ Vous pouvez
 2 DATE 29 MAY 2016
 2 PLAC Strasbourg
 1 FAMC @F22@
-0 @I114001@ INDI
+0 @I114000@ INDI
 1 NAME Joseph Joachim /FUTTERER/
 2 GIVN Joseph Joachim
 2 SURN FUTTERER
@@ -1030,7 +1030,7 @@ Vous pouvez
 2 DATE 1943
 2 PLAC Mertzwiller
 1 FAMS @F23@
-0 @I114002@ INDI
+0 @I114001@ INDI
 1 NAME Madeleine /RUCH/
 2 GIVN Madeleine
 2 SURN RUCH
@@ -1067,7 +1067,6 @@ Vous pouvez
 1 WIFE @I4.1@
 1 MARR
 2 DATE 1695
-1 CHIL @I4.11@
 0 @F5@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
@@ -1221,12 +1220,13 @@ Vous pouvez
 1 WIFE @I15206@
 1 CHIL @I15207@
 0 @F23@ FAM
-1 HUSB @I114001@
-1 WIFE @I114002@
-0 @F24@ FAM
-1 HUSB @I30000@
-1 WIFE @I30001@
+1 HUSB @I114000@
+1 WIFE @I114001@
 1 CHIL @I14001@
+0 @F24@ FAM
+1 HUSB @I3@
+1 WIFE @I46026@
+1 CHIL @I4.11@
 0 @F25@ FAM
 1 HUSB @I15202@
 1 CHIL @I15204@
