@@ -19,10 +19,9 @@
 1 WWW https://gedbas.genealogy.net/person/show/1419165426
 1 NOTE L'origine de la famille BECKER se trouve à Weiher 
 2 CONC (Ubstadt)  à environ 30km au nord de Karlsruhe. Le 
-2 CONC premier lien ci-dessous ouvre google maps.
-Vous pouvez 
+2 CONC premier lien ci-dessous ouvre google maps. Vous pouvez 
 2 CONC retrouver des traces de la famille en partant de 
-2 CONC l'Ancêtre sur le deuxième lien. 
+2 CONC l'Ancêtre en cliquant sur le deuxième lien. 
 1 FAMS @F1@
 0 @IA2@ INDI
 1 NAME N.N. /NN/
@@ -133,7 +132,7 @@ Vous pouvez
 2 GIVN 1
 2 SURN ENFANT(S)
 1 SEX F
-1 FAMC @F33@
+1 FAMC @F35@
 0 @I6@ INDI
 1 NAME Maria Eva Barbara /NEU/
 2 GIVN Maria Eva Barbara
@@ -689,6 +688,7 @@ Vous pouvez
 2 DATE 1921
 1 DEAT
 2 DATE 2010
+1 FAMS @F32@
 1 FAMC @F11@
 0 @I14000@ INDI
 1 NAME Edouard /BECKER/
@@ -731,12 +731,12 @@ Vous pouvez
 2 PLAC Vitry sur Orne
 1 DEAT
 2 DATE 30 AUG 2016
-2 PLAC Dauendiorf
+2 PLAC Dauendorf
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
 2 FORM JPG
 1 FAMS @F12@
-1 FAMC @F32@
+1 FAMC @F34@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -856,6 +856,9 @@ Vous pouvez
 1 BIRT
 2 DATE 06 DEC 1970
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12005.jpg
+2 FORM JPG
 1 FAMS @F17@
 1 FAMC @F16@
 0 @I12006@ INDI
@@ -866,6 +869,9 @@ Vous pouvez
 1 BIRT
 2 DATE 11 MAY 1973
 2 PLAC Fontenay-Aux-Roses
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12006.jpg
+2 FORM JPG
 1 FAMS @F18@
 1 FAMC @F16@
 0 @I12007@ INDI
@@ -876,6 +882,9 @@ Vous pouvez
 1 BIRT
 2 DATE 28 JUN 1968
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12007.jpg
+2 FORM JPG
 1 FAMS @F18@
 0 @I12008@ INDI
 1 NAME Dominique /WATIER/
@@ -894,6 +903,9 @@ Vous pouvez
 1 BIRT
 2 DATE 27 OCT 1997
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12009.jpg
+2 FORM JPG
 1 FAMS @F19@
 1 FAMC @F17@
 0 @I12010@ INDI
@@ -904,6 +916,9 @@ Vous pouvez
 1 BIRT
 2 DATE 11 MAR 2000
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12010.jpg
+2 FORM JPG
 1 FAMC @F17@
 0 @I12011@ INDI
 1 NAME Maéva /ZUGMERYER-VOYER/
@@ -913,6 +928,9 @@ Vous pouvez
 1 BIRT
 2 DATE 13 OCT 2011
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12011.jpg
+2 FORM JPG
 1 FAMC @F18@
 0 @I12012@ INDI
 1 NAME Eliott /ZUGMERYER-VOYER/
@@ -922,6 +940,9 @@ Vous pouvez
 1 BIRT
 2 DATE 31 JAN 2017
 2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12012.jpg
+2 FORM JPG
 1 FAMC @F18@
 0 @I12013@ INDI
 1 NAME Julie /BOYER/
@@ -932,6 +953,24 @@ Vous pouvez
 2 DATE 12 MAY 1997
 2 PLAC St-Etienne
 1 FAMS @F19@
+0 @I12020@ INDI
+1 NAME Christiane /BECKER/
+2 GIVN Christiane
+2 SURN BECKER
+1 SEX F
+1 FAMC @F15@
+0 @I12030@ INDI
+1 NAME Andrée /BECKER/
+2 GIVN Andrée
+2 SURN BECKER
+1 SEX F
+1 FAMC @F15@
+0 @I12040@ INDI
+1 NAME Louis /BECKER/
+2 GIVN Louis
+2 SURN BECKER
+1 SEX M
+1 FAMC @F15@
 0 @I15001@ INDI
 1 NAME Elisabeth /MARENT/
 2 GIVN Elisabeth
@@ -996,7 +1035,7 @@ Vous pouvez
 1 BIRT
 2 DATE 22 OCT 1999
 2 PLAC Colmar
-1 FAMC @F34@
+1 FAMC @F36@
 0 @I15205@ INDI
 1 NAME Elijah /BAKIS/
 2 GIVN Elijah
@@ -1005,7 +1044,7 @@ Vous pouvez
 1 BIRT
 2 DATE 23 FEB 2003
 2 PLAC Strasbourg
-1 FAMC @F34@
+1 FAMC @F36@
 0 @I15206@ INDI
 1 NAME Jennifer /BRICE/
 2 GIVN Jennifer
@@ -1133,7 +1172,7 @@ Vous pouvez
 1 SEX F
 1 BIRT
 2 DATE 13 JUL 2012
-1 FAMC @F35@
+1 FAMC @F37@
 0 @I15103@ INDI
 1 NAME Christian /HUCK/
 2 GIVN Christian
@@ -1196,9 +1235,9 @@ Vous pouvez
 2 PLAC Schiltigheim
 1 FAMC @F26@
 0 @I14301@ INDI
-1 NAME Huguette /BECKER/
+1 NAME Huguette /ANDRES/
 2 GIVN Huguette
-2 SURN BECKER
+2 SURN ANDRES
 1 SEX F
 1 BIRT
 2 DATE 03 AUG 1948
@@ -1212,7 +1251,7 @@ Vous pouvez
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 11 OCT 1983
+2 DATE 11 OCT 1977
 1 DEAT
 2 DATE 29 OCT 2015
 1 FAMS @F28@
@@ -1333,6 +1372,43 @@ Vous pouvez
 2 DATE 25 JUN 1970
 2 PLAC Strasbourg (67)
 1 FAMC @F30@
+0 @I13001@ INDI
+1 NAME Charles /LUTZ/
+2 GIVN Charles
+2 SURN LUTZ
+1 SEX M
+1 FAMS @F32@
+0 @I13002@ INDI
+1 NAME Jeannine /LUTZ/
+2 GIVN Jeannine
+2 SURN LUTZ
+1 SEX F
+1 FAMS @F33@
+1 FAMC @F32@
+0 @I13003@ INDI
+1 NAME Alain /EUDES/
+2 GIVN Alain
+2 SURN EUDES
+1 SEX M
+1 FAMS @F33@
+0 @I13004@ INDI
+1 NAME Laurence /EUDES/
+2 GIVN Laurence
+2 SURN EUDES
+1 SEX F
+1 FAMC @F33@
+0 @I13005@ INDI
+1 NAME Jean /LUTZ/
+2 GIVN Jean
+2 SURN LUTZ
+1 SEX M
+1 FAMC @F32@
+0 @I13006@ INDI
+1 NAME Michou /LUTZ/
+2 GIVN Michou
+2 SURN LUTZ
+1 SEX F
+1 FAMC @F32@
 0 @I114000@ INDI
 1 NAME Joseph Joachim /FUTTERER/
 2 GIVN Joseph Joachim
@@ -1344,7 +1420,7 @@ Vous pouvez
 1 DEAT
 2 DATE 1943
 2 PLAC Mertzwiller
-1 FAMS @F32@
+1 FAMS @F34@
 0 @I114001@ INDI
 1 NAME Madeleine /RUCH/
 2 GIVN Madeleine
@@ -1356,7 +1432,7 @@ Vous pouvez
 1 DEAT
 2 DATE 28 DEC 1983
 2 PLAC Mertzwiller
-1 FAMS @F32@
+1 FAMS @F34@
 0 @F1@ FAM
 1 HUSB @IA1@
 1 WIFE @IA2@
@@ -1491,6 +1567,9 @@ Vous pouvez
 1 WIFE @I12001@
 1 CHIL @I12002@
 1 CHIL @I12003@
+1 CHIL @I12020@
+1 CHIL @I12030@
+1 CHIL @I12040@
 0 @F16@ FAM
 1 HUSB @I12004@
 1 WIFE @I12003@
@@ -1600,18 +1679,28 @@ Vous pouvez
 1 CHIL @I14112@
 1 CHIL @I14113@
 0 @F32@ FAM
+1 HUSB @I13001@
+1 WIFE @I13000@
+1 CHIL @I13002@
+1 CHIL @I13005@
+1 CHIL @I13006@
+0 @F33@ FAM
+1 HUSB @I13003@
+1 WIFE @I13002@
+1 CHIL @I13004@
+0 @F34@ FAM
 1 HUSB @I114000@
 1 WIFE @I114001@
 1 CHIL @I14001@
-0 @F33@ FAM
+0 @F35@ FAM
 1 HUSB @I3@
 1 WIFE @I46026@
 1 CHIL @I4.11@
-0 @F34@ FAM
+0 @F36@ FAM
 1 HUSB @I15202@
 1 CHIL @I15204@
 1 CHIL @I15205@
-0 @F35@ FAM
+0 @F37@ FAM
 1 HUSB @I15402@
 1 CHIL @I15404@
 0 TRLR
