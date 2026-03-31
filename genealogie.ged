@@ -1047,10 +1047,7 @@
 2 DATE 19 NOV 1944
 2 PLAC Thann
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12020
-2 FORM JPG
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12020.jpg
 2 FORM JPG
 1 FAMS @F51@
 1 FAMC @F16@
@@ -1921,10 +1918,7 @@
 2 DATE dcd
 2 PLAC Obernai
 1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12021
-2 FORM JPG
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/jpg
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12021.jpg
 2 FORM JPG
 1 FAMS @F51@
 0 @I12120@ INDI
