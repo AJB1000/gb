@@ -1,11 +1,21 @@
-0 HEAD
-1 SOUR CSV2GED
-2 VERS 1.0
+﻿0 HEAD
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 SOUR ANCESTRIS
+2 VERS 14.0.14144
+2 NAME Ancestris
+2 CORP Ancestris Team
+3 ADDR https://www.ancestris.org
+1 DEST ANY
+1 DATE 31 MAR 2026
+2 TIME 18:01:34
+1 FILE genealogie_ancestris.ged
 1 CHAR UTF-8
 1 LANG French
+1 PLAC
+2 FORM Lieudit, Commune, Code_INSEE, Code_Postal, Département, Région, Pays
+1 NOTE Ce fichier a été modifié par le module d'import générique d'Ancestris
 0 @IA1@ INDI
 1 NAME Jacob /BECKER/
 2 GIVN Jacob
@@ -15,13 +25,11 @@
 2 DATE 1586
 1 DEAT
 2 DATE 1652
-1 WWW https://www.google.com/maps/place/@49.1833,8.6333,14z
-1 WWW https://gedbas.genealogy.net/person/show/1419165426
-1 NOTE L'origine de la famille BECKER se trouve à Weiher 
-2 CONC (Ubstadt)  à environ 30km au nord de Karlsruhe. Le 
-2 CONC premier lien ci-dessous ouvre google maps. Vous pouvez 
-2 CONC retrouver des traces de la famille en partant de 
-2 CONC l'Ancêtre en cliquant sur le deuxième lien. 
+1 RESI
+2 WWW https://www.google.com/maps/place/@@49.1833,8.6333,14z
+2 WWW https://gedbas.genealogy.net/person/show/1419165426
+1 NOTE L'origine de la famille BECKER se trouve à Weiher (Ubstadt)  à environ 30km au nord de Karlsruhe. Le premier lien ci-dessous ouvre google maps. Vous pouvez retrouver des traces de la famille en partant de l'Ancêtre en cliquant sur le deuxième lie
+2 CONC n. 
 1 FAMS @F1@
 0 @IA2@ INDI
 1 NAME N.N. /NN/
@@ -35,18 +43,18 @@
 1 FAMS @F1@
 0 @I1@ INDI
 1 NAME Hans Jacob /BECKER/
-2 GIVN Hans Jacob
+2 GIVN Hans, Jacob
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 1630
 1 DEAT
-2 DATE 02 JAN 1725
+2 DATE 2 JAN 1725
 1 FAMS @F2@
 1 FAMC @F1@
 0 @I2@ INDI
 1 NAME Anna Maria /NN/
-2 GIVN Anna Maria
+2 GIVN Anna, Maria
 2 SURN NN
 1 SEX F
 1 BIRT
@@ -56,7 +64,7 @@
 1 FAMS @F2@
 0 @I3@ INDI
 1 NAME Valentin Bernhard /BECKER/
-2 GIVN Valentin Bernhard
+2 GIVN Valentin, Bernhard
 2 SURN BECKER
 1 SEX M
 1 BIRT
@@ -68,17 +76,17 @@
 1 FAMC @F2@
 0 @I3.1@ INDI
 1 NAME Jakob (Joducus) /BECKER/
-2 GIVN Jakob (Joducus)
+2 GIVN Jakob, (Joducus)
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 1660
 1 DEAT
-2 DATE 06 FEB 1730
+2 DATE 6 FEB 1730
 1 FAMC @F2@
 0 @I4@ INDI
 1 NAME Maria Margaretha /BURK/
-2 GIVN Maria Margaretha
+2 GIVN Maria, Margaretha
 2 SURN BURK
 1 SEX F
 1 BIRT
@@ -88,7 +96,7 @@
 1 FAMS @F3@
 0 @I4.1@ INDI
 1 NAME Eva Maria /MOHLER/
-2 GIVN Eva Maria
+2 GIVN Eva, Maria
 2 SURN MOHLER
 1 SEX F
 1 BIRT
@@ -98,7 +106,7 @@
 1 FAMS @F4@
 0 @I5.1@ INDI
 1 NAME Anna Elisabetha /BECKER/
-2 GIVN Anna Elisabetha
+2 GIVN Anna, Elisabetha
 2 SURN BECKER
 1 SEX F
 1 BIRT
@@ -108,46 +116,44 @@
 1 FAMC @F3@
 0 @I5@ INDI
 1 NAME Andreas Caspar /BECKER/
-2 GIVN Andreas Caspar
+2 GIVN Andreas, Caspar
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 21 NOV 1727
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 18 NOV 1777
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
+1 RESI
+2 WWW https://heimatverein-ubstadt-weiher.de/historische-grabsteine/
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/23.jpg
-2 FORM JPG
-1 WWW https://heimatverein-ubstadt-weiher.de/historische-grabsteine/
-1 NOTE Cette croix est-elle celle d'Andreas Caspar ? Il y a un 
-2 CONC doute : prénom et nom concordent ainsi que le prénom de 
-2 CONC l'épouse et le métier. Cependant le nom de l'épouse, le 
-2 CONC jour du décès et l'âge du défunt ne concordent pas. 
+3 FORM JPG
+1 NOTE Cette croix est-elle celle d'Andreas Caspar ? Il y a un doute : prénom et nom concordent ainsi que le prénom de l'épouse et le métier. Cependant le nom de l'épouse, le jour du décès et l'âge du défunt ne concordent pas. 
 1 FAMS @F5@
 1 FAMC @F3@
 0 @I4.11@ INDI
 1 NAME Maria Katharina /BECKER/
-2 GIVN Maria Katharina
+2 GIVN Maria, Katharina
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 10 JAN 1699
 1 DEAT
-2 DATE 03 APR 1770
+2 DATE 3 APR 1770
 1 FAMC @F4@
 0 @I6@ INDI
 1 NAME Maria Eva Barbara /NEU/
-2 GIVN Maria Eva Barbara
+2 GIVN Maria, Eva, Barbara
 2 SURN NEU
 1 SEX F
 1 BIRT
 2 DATE 18 JAN 1737
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 19 OCT 1813
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F5@
 0 @I7@ INDI
 1 NAME Andreas /BECKER/
@@ -156,10 +162,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 OCT 1758
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 13 MAY 1823
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I7.1@ INDI
 1 NAME Jacob /BECKER/
@@ -168,36 +174,36 @@
 1 SEX M
 1 BIRT
 2 DATE 23 JAN 1760
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 23 MAR 1760
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I8@ INDI
 1 NAME Johann Jakob /BECKER/
-2 GIVN Johann Jakob
+2 GIVN Johann, Jakob
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 18 MAR 1761
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 28 JUN 1821
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F6@
 1 FAMS @F7@
 1 FAMC @F5@
 0 @I9@ INDI
 1 NAME Eva Barbara /BECKER/
-2 GIVN Eva Barbara
+2 GIVN Eva, Barbara
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 28 FEB 1764
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 29 FEB 1764
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I9.1@ INDI
 1 NAME Elisabeth /BECKER/
@@ -206,10 +212,10 @@
 1 SEX F
 1 BIRT
 2 DATE 28 FEB 1764
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 10 MAR 1764
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I10@ INDI
 1 NAME Christian /BECKER/
@@ -217,83 +223,83 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 09 MAY 1765
-2 PLAC Weiher (D)
+2 DATE 9 MAY 1765
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 25 JAN 1820
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I11@ INDI
 1 NAME Maria Elisabeth /BECKER/
-2 GIVN Maria Elisabeth
+2 GIVN Maria, Elisabeth
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 09 MAY 1765
-2 PLAC Weiher (D)
+2 DATE 9 MAY 1765
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 10 FEB 1769
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I12@ INDI
 1 NAME Anna Eva /BECKER/
-2 GIVN Anna Eva
+2 GIVN Anna, Eva
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 28 SEP 1767
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
-2 DATE 05 FEB 1769
-2 PLAC Weiher (D)
+2 DATE 5 FEB 1769
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I13@ INDI
 1 NAME Johann Nikolaus /BECKER/
-2 GIVN Johann Nikolaus
+2 GIVN Johann, Nikolaus
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 19 FEB 1770
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 21 DEC 1819
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I14@ INDI
 1 NAME Johann Wilhelm /BECKER/
-2 GIVN Johann Wilhelm
+2 GIVN Johann, Wilhelm
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1772
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 11 JUN 1775
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I15@ INDI
 1 NAME Johann Caspar /BECKER/
-2 GIVN Johann Caspar
+2 GIVN Johann, Caspar
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 05 AUG 1775
-2 PLAC Weiher (D)
+2 DATE 5 AUG 1775
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 26 MAY 1782
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F5@
 0 @I16@ INDI
 1 NAME Eva Katharina /HERZOG/
-2 GIVN Eva Katharina
+2 GIVN Eva, Katharina
 2 SURN HERZOG
 1 SEX F
 1 BIRT
 2 DATE 13 NOV 1746
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
-2 DATE 04 DEC 1798
-2 PLAC Weiher (D)
+2 DATE 4 DEC 1798
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F6@
 0 @I16.1@ INDI
 1 NAME Margaretha /BENDER/
@@ -302,10 +308,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1775
-2 PLAC Roth (D)
+2 PLAC Roth (D), , , , , , 
 1 DEAT
 2 DATE 15 AUG 1857
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F7@
 0 @I17@ INDI
 1 NAME Andreas /BECKER/
@@ -314,22 +320,22 @@
 1 SEX M
 1 BIRT
 2 DATE 15 MAR 1785
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 28 JUN 1790
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I18@ INDI
 1 NAME Maria Eva /BECKER/
-2 GIVN Maria Eva
+2 GIVN Maria, Eva
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 07 MAR 1785
-2 PLAC Weiher (D)
+2 DATE 7 MAR 1785
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 28 JUN 1790
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I19@ INDI
 1 NAME Andreas /BECKER/
@@ -338,22 +344,22 @@
 1 SEX M
 1 BIRT
 2 DATE 16 DEC 1786
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 25 JAN 1787
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I20@ INDI
 1 NAME Johann Caspar /BECKER/
-2 GIVN Johann Caspar
+2 GIVN Johann, Caspar
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 17 DEC 1787
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 18 SEP 1842
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I21@ INDI
 1 NAME Andreas /BECKER/
@@ -361,11 +367,11 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 01 AUG 1789
-2 PLAC Weiher (D)
+2 DATE 1 AUG 1789
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 29 DEC 1813
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I22@ INDI
 1 NAME Valentin /BECKER/
@@ -374,81 +380,81 @@
 1 SEX M
 1 BIRT
 2 DATE 25 MAY 1791
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 28 MAY 1867
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F8@
 1 FAMC @F6@
 0 @I23@ INDI
 1 NAME Joseph Bernhard /BECKER/
-2 GIVN Joseph Bernhard
+2 GIVN Joseph, Bernhard
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 14 SEP 1794
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 23 JUN 1795
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I24@ INDI
 1 NAME Georg Wendelin /BECKER/
-2 GIVN Georg Wendelin
+2 GIVN Georg, Wendelin
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 13 JAN 1797
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 22 JAN 1868
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F6@
 0 @I25@ INDI
 1 NAME Eva Magdalena /MEISTER/
-2 GIVN Eva Magdalena
+2 GIVN Eva, Magdalena
 2 SURN MEISTER
 1 SEX F
 1 BIRT
 2 DATE 12 OCT 1792
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 28 MAY 1866
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F8@
 0 @I26@ INDI
 1 NAME Johann Ferdinand /BECKER/
-2 GIVN Johann Ferdinand
+2 GIVN Johann, Ferdinand
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 17 APR 1819
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 10 OCT 1892
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F9@
 1 FAMC @F8@
 0 @I27@ INDI
 1 NAME Maria Luise /BECKER/
-2 GIVN Maria Luise
+2 GIVN Maria, Luise
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 30 MAR 1821
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F8@
 0 @I28@ INDI
 1 NAME Franz Joseph /BECKER/
-2 GIVN Franz Joseph
+2 GIVN Franz, Joseph
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 09 JUN 1824
-2 PLAC Weiher (D)
+2 DATE 9 JUN 1824
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 17 SEP 1888
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F8@
 0 @I29@ INDI
 1 NAME Leo /BECKER/
@@ -456,33 +462,33 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 08 AUG 1826
+2 DATE 8 AUG 1826
 1 DEAT
-2 DATE 02 DEC 1896
+2 DATE 2 DEC 1896
 1 FAMC @F8@
 0 @I30@ INDI
 1 NAME Albertina ou Antonia /BECKER/
-2 GIVN Albertina ou Antonia
+2 GIVN Albertina, ou, Antonia
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 27 SEP 1829
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
 2 DATE 12 FEB 1889
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F8@
 0 @I31@ INDI
 1 NAME Johann Michael /BECKER/
-2 GIVN Johann Michael
+2 GIVN Johann, Michael
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 23 OCT 1832
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
-2 DATE 06 MAR 1914
-2 PLAC Weiher (D)
+2 DATE 6 MAR 1914
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F8@
 0 @I32@ INDI
 1 NAME Jakob /BECKER/
@@ -491,10 +497,10 @@
 1 SEX M
 1 BIRT
 2 DATE 17 JAN 1835
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
-2 DATE 04 JUN 1884
-2 PLAC Weiher (D)
+2 DATE 4 JUN 1884
+2 PLAC Weiher (D), , , , , , 
 1 FAMC @F8@
 0 @I33@ INDI
 1 NAME Franziska /MUNCH/
@@ -502,7 +508,7 @@
 2 SURN MUNCH
 1 SEX F
 1 BIRT
-2 DATE 03 DEC 1821
+2 DATE 3 DEC 1821
 1 DEAT
 2 DATE 14 OCT 1873
 1 FAMS @F9@
@@ -512,7 +518,7 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 06 MAY 1848
+2 DATE 6 MAY 1848
 1 DEAT
 2 DATE 12 SEP 1846
 1 FAMC @F9@
@@ -533,10 +539,10 @@
 2 DATE 19 JAN 1850
 1 DEAT
 2 DATE 12 FEB 1874
-2 PLAC Bruchsal (D) ?
+2 PLAC Bruchsal (D) ?, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/36.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F10@
 1 FAMS @F11@
 1 FAMC @F9@
@@ -556,7 +562,7 @@
 1 BIRT
 2 DATE 25 JUN 1857
 1 DEAT
-2 DATE 02 FEB 1868
+2 DATE 2 FEB 1868
 1 FAMC @F9@
 0 @I39@ INDI
 1 NAME Anna /BECKER/
@@ -564,7 +570,7 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 02 JAN 1860
+2 DATE 2 JAN 1860
 1 DEAT
 2 DATE 19 JAN 1860
 1 FAMC @F9@
@@ -576,7 +582,7 @@
 1 BIRT
 2 DATE 27 JAN 1863
 1 DEAT
-2 DATE 03 FEB 1868
+2 DATE 3 FEB 1868
 1 FAMC @F9@
 0 @I41@ INDI
 1 NAME Sophia /GARTNER/
@@ -585,10 +591,10 @@
 1 SEX F
 1 BIRT
 2 DATE 25 DEC 1851
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 DEAT
-2 DATE 07 MAR 1889
-2 PLAC Weiher (D)
+2 DATE 7 MAR 1889
+2 PLAC Weiher (D), , , , , , 
 1 FAMS @F10@
 0 @I42@ INDI
 1 NAME Karolina /BECKER/
@@ -596,7 +602,7 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 05 DEC 1874
+2 DATE 5 DEC 1874
 1 DEAT
 2 DATE 26 MAR 1875
 1 FAMC @F10@
@@ -610,7 +616,7 @@
 1 FAMC @F10@
 0 @I44@ INDI
 1 NAME Maria Theresia /BECKER/
-2 GIVN Maria Theresia
+2 GIVN Maria, Theresia
 2 SURN BECKER
 1 SEX F
 1 BIRT
@@ -622,13 +628,13 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 05 OCT 1882
+2 DATE 5 OCT 1882
 1 DEAT
 2 DATE 17 APR 1885
 1 FAMC @F10@
 0 @I46@ INDI
 1 NAME Linus Ruppert /BECKER/
-2 GIVN Linus Ruppert
+2 GIVN Linus, Ruppert
 2 SURN BECKER
 1 SEX M
 1 BIRT
@@ -645,10 +651,10 @@
 2 DATE 13 AUG 1886
 1 DEAT
 2 DATE 1968
-2 PLAC Saverne ?
+2 PLAC Saverne ?, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F13@
 1 FAMC @F10@
 0 @I41.1@ INDI
@@ -667,7 +673,7 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 02 MAR 1889
+2 DATE 2 MAR 1889
 1 DEAT
 2 DATE 26 MAR 1875
 1 FAMS @F12@
@@ -691,25 +697,27 @@
 1 SEX F
 1 BIRT
 2 DATE 30 NOV 1888
-2 PLAC Bernwiller ?
+2 PLAC Bernwiller ?, , , , , , 
 1 DEAT
 2 DATE 1969
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F13@
-1 FAMC @F60@
+1 FAMC @F61@
 0 @I10001.1@ INDI
 1 NAME Alexandre /SPENLENHAUER/
 2 GIVN Alexandre
 2 SURN SPENLENHAUER
 1 SEX M
+1 FAMS @F61@
 0 @I10001.2@ INDI
 1 NAME Magdalena /JECKER/
 2 GIVN Magdalena
 2 SURN JECKER
 1 SEX F
+1 FAMS @F61@
 0 @I11000@ INDI
 1 NAME Rudolphe /BECKER/
 2 GIVN Rudolphe
@@ -718,26 +726,26 @@
 1 BIRT
 2 DATE 1918
 1 DEAT
-2 DATE 06 DEC 1962
-2 PLAC Rabat (MA)
+2 DATE 6 DEC 1962
+2 PLAC Rabat (MA), , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/11000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F15@
 1 FAMC @F13@
 0 @I12000@ INDI
 1 NAME Alfred René /BECKER/
-2 GIVN Alfred René
+2 GIVN Alfred, René
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 1919
-2 PLAC Bruchsal (D)
+2 PLAC Bruchsal (D), , , , , , 
 1 DEAT
 2 DATE 1990
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F16@
 1 FAMC @F13@
 0 @I13000@ INDI
@@ -751,7 +759,7 @@
 2 DATE 2010
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F36@
 1 FAMC @F13@
 0 @I14000@ INDI
@@ -761,46 +769,46 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAR 1922
-2 PLAC Mannheim (D)
+2 PLAC Mannheim (D), , , , , , 
 1 DEAT
 2 DATE 10 JUL 1950
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F14@
 1 FAMC @F13@
 0 @I15000@ INDI
 1 NAME Bernard Marcel /BECKER/
-2 GIVN Bernard Marcel
+2 GIVN Bernard, Marcel
 2 SURN BECKER
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1924
-2 PLAC Balschwiller
+2 PLAC Balschwiller, , , , , , 
 1 DEAT
 2 DATE 12 JUN 1994
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15000.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F22@
 1 FAMC @F13@
 0 @I14001@ INDI
 1 NAME Marie Thérèse /FUTTERER/
-2 GIVN Marie Thérèse
+2 GIVN Marie, Thérèse
 2 SURN FUTTERER
 1 SEX F
 1 BIRT
 2 DATE 16 APR 1920
-2 PLAC Vitry sur Orne
+2 PLAC Vitry sur Orne, , , , , , 
 1 DEAT
 2 DATE 30 AUG 2016
-2 PLAC Dauendorf
+2 PLAC Dauendorf, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F14@
-1 FAMC @F56@
+1 FAMC @F57@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -808,10 +816,10 @@
 1 SEX M
 1 BIRT
 2 DATE 26 DEC 1945
-2 PLAC Mertzwiller
+2 PLAC Mertzwiller, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14100.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F34@
 1 FAMC @F14@
 0 @I14200@ INDI
@@ -821,10 +829,10 @@
 1 SEX M
 1 BIRT
 2 DATE 30 JAN 1947
-2 PLAC Le Mans
+2 PLAC Le Mans, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14200.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F17@
 1 FAMC @F14@
 0 @I14300@ INDI
@@ -834,24 +842,24 @@
 1 SEX M
 1 BIRT
 2 DATE 22 JAN 1948
-2 PLAC La Walck
+2 PLAC La Walck, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14300.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F31@
 1 FAMC @F14@
 0 @I14400@ INDI
 1 NAME Marie Thérèse /BECKER/
-2 GIVN Marie Thérèse
+2 GIVN Marie, Thérèse
 2 SURN BECKER
 1 SEX F
 1 BIRT
 2 DATE 16 JUL 1949
-2 PLAC Vervins
-1 DIV
+2 PLAC Vervins, , , , , , 
+1 DIV Y
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14400.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F38@
 1 FAMC @F14@
 0 @I11001@ INDI
@@ -863,7 +871,7 @@
 2 DATE 26 JAN 1926
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/11001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F15@
 0 @I12001@ INDI
 1 NAME Marie-Antoinette /WALTER/
@@ -871,14 +879,14 @@
 2 SURN WALTER
 1 SEX F
 1 BIRT
-2 DATE 09 MAR 1921
-2 PLAC Willer-Sur-Thur
+2 DATE 9 MAR 1921
+2 PLAC Willer-Sur-Thur, , , , , , 
 1 DEAT
 2 DATE 13 OCT 1978
-2 PLAC La Wantzenau
+2 PLAC La Wantzenau, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F16@
 0 @I12002@ INDI
 1 NAME Marie-France /BECKER/
@@ -886,11 +894,11 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 01 JUL 1943
-2 PLAC Thann
+2 DATE 1 JUL 1943
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12002.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F16@
 0 @I14201@ INDI
 1 NAME Michèle /CHAGNARD/
@@ -899,10 +907,10 @@
 1 SEX F
 1 BIRT
 2 DATE 22 FEB 1953
-2 PLAC Meknès (MA)
+2 PLAC Meknès (MA), , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14201.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F17@
 0 @I12003@ INDI
 1 NAME Yvette /BECKER/
@@ -910,11 +918,11 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 01 MAY 1946
-2 PLAC Thann
+2 DATE 1 MAY 1946
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12003.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F18@
 1 FAMC @F16@
 0 @I12004@ INDI
@@ -924,10 +932,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1946
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12004.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F18@
 0 @I12005@ INDI
 1 NAME Magali /VOYER/
@@ -935,12 +943,12 @@
 2 SURN VOYER
 1 SEX F
 1 BIRT
-2 DATE 06 DEC 1970
-2 PLAC Strasbourg
-1 DIV
+2 DATE 6 DEC 1970
+2 PLAC Strasbourg, , , , , , 
+1 DIV Y
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12005.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F19@
 1 FAMC @F18@
 0 @I12006@ INDI
@@ -950,10 +958,10 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAY 1973
-2 PLAC Fontenay-Aux-Roses
+2 PLAC Fontenay-Aux-Roses, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12006.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F20@
 1 FAMC @F18@
 0 @I12007@ INDI
@@ -963,10 +971,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 JUN 1968
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12007.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F20@
 0 @I12008@ INDI
 1 NAME Dominique /WATIER/
@@ -975,7 +983,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 MAY 1969
-2 PLAC Paris
+2 PLAC Paris, , , , , , 
 1 FAMS @F19@
 0 @I12009@ INDI
 1 NAME Maxime /WATIER/
@@ -984,10 +992,10 @@
 1 SEX M
 1 BIRT
 2 DATE 27 OCT 1997
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12009.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F21@
 1 FAMC @F19@
 0 @I12010@ INDI
@@ -997,10 +1005,10 @@
 1 SEX M
 1 BIRT
 2 DATE 11 MAR 2000
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12010.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F19@
 0 @I12011@ INDI
 1 NAME Maéva /ZUGMERYER-VOYER/
@@ -1009,10 +1017,10 @@
 1 SEX F
 1 BIRT
 2 DATE 13 MAY 2011
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12011.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F20@
 0 @I12012@ INDI
 1 NAME Eliot /ZUGMERYER-VOYER/
@@ -1021,10 +1029,10 @@
 1 SEX M
 1 BIRT
 2 DATE 31 JAN 2017
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12012.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F20@
 0 @I12013@ INDI
 1 NAME Julie /BOYER/
@@ -1033,10 +1041,10 @@
 1 SEX F
 1 BIRT
 2 DATE 12 MAY 1997
-2 PLAC St-Etienne
+2 PLAC St-Etienne, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12013.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F21@
 0 @I12020@ INDI
 1 NAME Christiane /BECKER/
@@ -1045,11 +1053,11 @@
 1 SEX F
 1 BIRT
 2 DATE 19 NOV 1944
-2 PLAC Thann
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12020.jpg
-2 FORM JPG
-1 FAMS @F45@
+3 FORM JPG
+1 FAMS @F52@
 1 FAMC @F16@
 0 @IA12030@ INDI
 1 NAME Andrée /BECKER/
@@ -1058,12 +1066,12 @@
 1 SEX F
 1 BIRT
 2 DATE 17 FEB 1949
-2 PLAC Thann
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12030.jpg
-2 FORM JPG
-1 FAMS @F49@
-1 FAMS @F50@
+3 FORM JPG
+1 FAMS @F41@
+1 FAMS @F42@
 1 FAMC @F16@
 0 @I12040@ INDI
 1 NAME Louis /BECKER/
@@ -1072,12 +1080,12 @@
 1 SEX M
 1 BIRT
 2 DATE 25 MAR 1952
-2 PLAC Thann
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12040.jpg
-2 FORM JPG
-1 FAMS @F41@
-1 FAMS @F42@
+3 FORM JPG
+1 FAMS @F48@
+1 FAMS @F49@
 1 FAMC @F16@
 0 @I15001@ INDI
 1 NAME Elisabeth /MARENT/
@@ -1086,13 +1094,13 @@
 1 SEX F
 1 BIRT
 2 DATE 15 NOV 1920
-2 PLAC Bitschwiller les Thann
+2 PLAC Bitschwiller les Thann, , , , , , 
 1 DEAT
 2 DATE 20 OCT 2001
-2 PLAC Sausheim
+2 PLAC Sausheim, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F22@
 0 @I15200@ INDI
 1 NAME Elisabeth /BECKER/
@@ -1100,8 +1108,8 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 09 JUN 1950
-2 PLAC Thann
+2 DATE 9 JUN 1950
+2 PLAC Thann, , , , , , 
 1 FAMS @F23@
 1 FAMC @F22@
 0 @I15201@ INDI
@@ -1111,7 +1119,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 OCT 1953
-2 PLAC Haiffa (Israel)
+2 PLAC Haiffa (Israel), , , , , , 
 1 FAMS @F23@
 0 @I15202@ INDI
 1 NAME Arnaud /BAKIS/
@@ -1120,10 +1128,10 @@
 1 SEX M
 1 BIRT
 2 DATE 3 APR 1971
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 DEAT
 2 DATE 3 DEC 2003
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 FAMS @F24@
 1 FAMS @F25@
 1 FAMC @F23@
@@ -1141,12 +1149,12 @@
 1 FAMS @F25@
 0 @I15203@ INDI
 1 NAME Jacques Ouriel /BAKIS/
-2 GIVN Jacques Ouriel
+2 GIVN Jacques, Ouriel
 2 SURN BAKIS
 1 SEX M
 1 BIRT
 2 DATE 9 SEP 1981
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMS @F26@
 1 FAMC @F23@
 0 @I15204@ INDI
@@ -1156,7 +1164,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 OCT 1999
-2 PLAC Colmar
+2 PLAC Colmar, , , , , , 
 1 FAMC @F24@
 0 @I15205@ INDI
 1 NAME Elijah /BAKIS/
@@ -1165,7 +1173,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 FEB 2003
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 FAMC @F25@
 0 @I15206@ INDI
 1 NAME Jennifer /BRICE/
@@ -1174,7 +1182,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 APR 1985
-2 PLAC Colmar
+2 PLAC Colmar, , , , , , 
 1 FAMS @F26@
 0 @I15207@ INDI
 1 NAME Yael /BAKIS/
@@ -1183,7 +1191,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 MAY 2016
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 FAMC @F26@
 0 @I15100@ INDI
 1 NAME Yves /BECKER/
@@ -1191,11 +1199,11 @@
 2 SURN BECKER
 1 SEX M
 1 BIRT
-2 DATE 07 DEC 1948
-2 PLAC Thann
+2 DATE 7 DEC 1948
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15100.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F27@
 1 FAMC @F22@
 0 @I15101@ INDI
@@ -1204,11 +1212,11 @@
 2 SURN GARNIER
 1 SEX F
 1 BIRT
-2 DATE 04 MAR 1948
-2 PLAC Dalat (Vietnam)
+2 DATE 4 MAR 1948
+2 PLAC Dalat (Vietnam), , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15101.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F27@
 0 @I15300@ INDI
 1 NAME Mathieu /BECKER/
@@ -1217,10 +1225,10 @@
 1 SEX M
 1 BIRT
 2 DATE 15-05-1952
-2 PLAC Thann
+2 PLAC Thann, , , , , , 
 1 DEAT
 2 DATE 13 MAY 1954
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMC @F22@
 0 @I15400@ INDI
 1 NAME Monique /BECKER/
@@ -1229,10 +1237,10 @@
 1 SEX F
 1 BIRT
 2 DATE 11 JUN 1954
-2 PLAC Thann
+2 PLAC Thann, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15400.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F28@
 1 FAMC @F22@
 0 @I15102@ INDI
@@ -1242,7 +1250,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1974
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMS @F29@
 1 FAMC @F27@
 0 @I15104@ INDI
@@ -1252,7 +1260,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 SEP 1978
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMS @F30@
 1 FAMC @F27@
 0 @I15401@ INDI
@@ -1261,13 +1269,13 @@
 2 SURN SEBILLE
 1 SEX M
 1 BIRT
-2 DATE 01 JAN 1948
+2 DATE 1 JAN 1948
 1 DEAT
 2 DATE 26 FEB 2019
-2 PLAC Stes Marie de la Mer
+2 PLAC Stes Marie de la Mer, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15401.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F28@
 0 @I15402@ INDI
 1 NAME Lionel /SEBILLE/
@@ -1276,8 +1284,9 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1976
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMC @F28@
+1 FAMS @F62@
 0 @I15403@ INDI
 1 NAME Romuald /SEBILLE/
 2 GIVN Romuald
@@ -1285,7 +1294,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 MAY 1980
-2 PLAC Mulhouse
+2 PLAC Mulhouse, , , , , , 
 1 FAMC @F28@
 0 @I15404@ INDI
 1 NAME Inès /SEBILLE-Blandin/
@@ -1294,7 +1303,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUL 2012
-1 FAMC @F61@
+1 FAMC @F62@
 0 @I15103@ INDI
 1 NAME Christian /HUCK/
 2 GIVN Christian
@@ -1318,7 +1327,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 MAY 1996
-2 PLAC Obernai
+2 PLAC Obernai, , , , , , 
 1 FAMC @F29@
 0 @I15107@ INDI
 1 NAME Romane /HUCK/
@@ -1327,7 +1336,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 JUL 2000
-2 PLAC Obernai
+2 PLAC Obernai, , , , , , 
 1 FAMC @F29@
 0 @I15108@ INDI
 1 NAME Adrien /HUCK/
@@ -1336,7 +1345,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 DEC 2010
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 FAMC @F29@
 0 @I15110@ INDI
 1 NAME Sasha /BECKER/
@@ -1345,7 +1354,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 NOV 2011
-2 PLAC Schiltigheim
+2 PLAC Schiltigheim, , , , , , 
 1 FAMC @F30@
 0 @I15111@ INDI
 1 NAME Lison /BECKER/
@@ -1353,8 +1362,8 @@
 2 SURN BECKER
 1 SEX F
 1 BIRT
-2 DATE 06 MAR 2014
-2 PLAC Schiltigheim
+2 DATE 6 MAR 2014
+2 PLAC Schiltigheim, , , , , , 
 1 FAMC @F30@
 0 @I14301@ INDI
 1 NAME Huguette /ANDRES/
@@ -1362,10 +1371,10 @@
 2 SURN ANDRES
 1 SEX F
 1 BIRT
-2 DATE 03 AUG 1948
+2 DATE 3 AUG 1948
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14301.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F31@
 0 @I14302@ INDI
 1 NAME Mireille /BECKER/
@@ -1378,7 +1387,7 @@
 2 DATE 29 OCT 2015
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14302.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F32@
 1 FAMC @F31@
 0 @I14303@ INDI
@@ -1390,7 +1399,7 @@
 2 DATE 26 MAY 1983
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14303.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F33@
 1 FAMC @F31@
 0 @I14304@ INDI
@@ -1402,7 +1411,7 @@
 2 DATE 28 SEP 1982
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14304.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F32@
 0 @I14305@ INDI
 1 NAME Rosalie /ZILVITIS/
@@ -1410,10 +1419,10 @@
 2 SURN ZILVITIS
 1 SEX F
 1 BIRT
-2 DATE 02 JAN 2009
+2 DATE 2 JAN 2009
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14305.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F32@
 0 @I14306@ INDI
 1 NAME Bradley /STARRING/
@@ -1421,10 +1430,10 @@
 2 SURN STARRING
 1 SEX M
 1 BIRT
-2 DATE 05 JUN 1980
+2 DATE 5 JUN 1980
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14306.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F33@
 0 @I14307@ INDI
 1 NAME Dakota /STARRING/
@@ -1435,7 +1444,7 @@
 2 DATE 21 OCT 2017
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14307.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F33@
 0 @I14308@ INDI
 1 NAME Dylan /STARRING/
@@ -1446,7 +1455,7 @@
 2 DATE 23 NOV 2020
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14308.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMC @F33@
 0 @I14101@ INDI
 1 NAME Michèle /BIANCHI/
@@ -1455,7 +1464,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 DEC 1940
-2 PLAC Wisches (67)
+2 PLAC Wisches (67), , , , , , 
 1 FAMS @F34@
 0 @I14110@ INDI
 1 NAME Olivier /BECKER/
@@ -1464,7 +1473,7 @@
 1 SEX M
 1 BIRT
 2 DATE 19 APR 1968
-2 PLAC Strasbourg (67)
+2 PLAC Strasbourg (67), , , , , , 
 1 FAMS @F35@
 1 FAMC @F34@
 0 @I14111@ INDI
@@ -1474,7 +1483,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 FEB 1969
-2 PLAC Tulle (19)
+2 PLAC Tulle (19), , , , , , 
 1 FAMS @F35@
 0 @I14112@ INDI
 1 NAME Thomas /BECKER/
@@ -1483,7 +1492,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 OCT 2001
-2 PLAC Lagny sur Marne (77)
+2 PLAC Lagny sur Marne (77), , , , , , 
 1 FAMC @F35@
 0 @I14113@ INDI
 1 NAME Robin /BECKER/
@@ -1492,7 +1501,7 @@
 1 SEX M
 1 BIRT
 2 DATE 19 DEC 2005
-2 PLAC Lagny sur Marne (77)
+2 PLAC Lagny sur Marne (77), , , , , , 
 1 FAMC @F35@
 0 @I14120@ INDI
 1 NAME Valéry /BECKER/
@@ -1501,7 +1510,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 JUN 1970
-2 PLAC Strasbourg (67)
+2 PLAC Strasbourg (67), , , , , , 
 1 FAMC @F34@
 0 @I13001@ INDI
 1 NAME Charles /LUTZ/
@@ -1510,7 +1519,7 @@
 1 SEX M
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13001.jpg
-2 FORM JPG
+3 FORM JPG
 1 FAMS @F36@
 0 @I13002@ INDI
 1 NAME Jeannine /LUTZ/
@@ -1550,10 +1559,10 @@
 1 SEX M
 1 BIRT
 2 DATE 12 FEB 1946
-2 PLAC Rouen
+2 PLAC Rouen, , , , , , 
 1 DEAT
 2 DATE 27 APR 2022
-2 PLAC St Arnoult
+2 PLAC St Arnoult, , , , , , 
 1 FAMS @F38@
 0 @I14402@ INDI
 1 NAME Sébastien /DESPRÉAUX/
@@ -1562,7 +1571,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 JUL 1972
-2 PLAC Düsseldorf RFA
+2 PLAC Düsseldorf RFA, , , , , , 
 1 FAMS @F39@
 1 FAMC @F38@
 0 @I14403@ INDI
@@ -1571,8 +1580,8 @@
 2 SURN DI PALMA
 1 SEX F
 1 BIRT
-2 DATE 11 JAN 1974
-2 PLAC Marseille 13
+2 DATE 16 JAN 1974
+2 PLAC Marseille 13, , , , , , 
 1 FAMS @F39@
 0 @I14404@ INDI
 1 NAME Chloé /DESPRÉAUX/
@@ -1581,7 +1590,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 OCT 1998
-2 PLAC Argenteuil 95
+2 PLAC Argenteuil 95, , , , , , 
 1 FAMC @F39@
 0 @I14405@ INDI
 1 NAME Lisa /DESPRÉAUX/
@@ -1590,7 +1599,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 DEC 2001
-2 PLAC Vannes 56
+2 PLAC Vannes 56, , , , , , 
 1 FAMC @F39@
 0 @I14406@ INDI
 1 NAME Nicolas /DESPRÉAUX/
@@ -1598,8 +1607,8 @@
 2 SURN DESPRÉAUX
 1 SEX M
 1 BIRT
-2 DATE 02 APR 1975
-2 PLAC Düsseldorf RFA
+2 DATE 2 APR 1975
+2 PLAC Düsseldorf RFA, , , , , , 
 1 FAMS @F40@
 1 FAMC @F38@
 0 @I14407@ INDI
@@ -1608,8 +1617,8 @@
 2 SURN REMY
 1 SEX F
 1 BIRT
-2 DATE 16 NOV 1982
-2 PLAC Villefranche s/Saône
+2 DATE 16 NOV 1942
+2 PLAC Villefranche s/Saône, , , , , , 
 1 FAMS @F40@
 0 @I14408@ INDI
 1 NAME Abel /DESPRÉAUX REMY/
@@ -1618,7 +1627,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 JAN 2015
-2 PLAC Givors 69
+2 PLAC Givors 69, , , , , , 
 1 FAMC @F40@
 0 @I14409@ INDI
 1 NAME Romane /DESPRÉAUX REMY/
@@ -1627,222 +1636,8 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUN 2017
-2 PLAC Givors 69
+2 PLAC Givors 69, , , , , , 
 1 FAMC @F40@
-0 @I12041@ INDI
-1 NAME Ginette /KORMANN/
-2 GIVN Ginette
-2 SURN KORMANN
-1 SEX F
-1 BIRT
-2 DATE 15 JAN 1953
-2 PLAC Brumath
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12041.jpg
-2 FORM JPG
-1 FAMS @F41@
-0 @I12042@ INDI
-1 NAME Sandra /ROSENBLATT/
-2 GIVN Sandra
-2 SURN ROSENBLATT
-1 SEX F
-1 BIRT
-2 DATE 24 JAN 1967
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12042.jpg
-2 FORM JPG
-1 FAMS @F42@
-0 @I12500@ INDI
-1 NAME Morgan /BECKER/
-2 GIVN Morgan
-2 SURN BECKER
-1 SEX M
-1 BIRT
-2 DATE 01 JAN 1975
-2 PLAC Strasbourg
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12500.jpg
-2 FORM JPG
-1 FAMS @F43@
-1 FAMC @F41@
-0 @I12501@ INDI
-1 NAME Mélanie /MEVEL-BECKER/
-2 GIVN Mélanie
-2 SURN MEVEL-BECKER
-1 SEX F
-1 BIRT
-2 DATE 04 OCT 1979
-2 PLAC Rennes
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12501.jpg
-2 FORM JPG
-1 FAMS @F43@
-0 @I12502@ INDI
-1 NAME Iana /MEVEL-BECKER/
-2 GIVN Iana
-2 SURN MEVEL-BECKER
-1 SEX F
-1 BIRT
-2 DATE 20 JUN 2009
-2 PLAC Rennes
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12502.jpg
-2 FORM JPG
-1 FAMC @F43@
-0 @I12504@ INDI
-1 NAME Karen /BECKER/
-2 GIVN Karen
-2 SURN BECKER
-1 SEX F
-1 BIRT
-2 DATE 27 MAR 1977
-2 PLAC Strasbourg
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12504.jpg
-2 FORM JPG
-1 FAMS @F44@
-1 FAMC @F41@
-0 @I12505@ INDI
-1 NAME Orane /LECLÈRE/
-2 GIVN Orane
-2 SURN LECLÈRE
-1 SEX F
-1 BIRT
-2 DATE 31 OCT 2008
-2 PLAC Bayonne
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12505.jpg
-2 FORM JPG
-1 FAMC @F44@
-0 @I12506@ INDI
-1 NAME Izia /LECLÈRE/
-2 GIVN Izia
-2 SURN LECLÈRE
-1 SEX F
-1 BIRT
-2 DATE 20 JUL 2013
-2 PLAC Bayonne
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12506.jpg
-2 FORM JPG
-1 FAMC @F44@
-0 @I12507@ INDI
-1 NAME Romain /BECKER/
-2 GIVN Romain
-2 SURN BECKER
-1 SEX M
-1 BIRT
-2 DATE 22 MAR 1999
-2 PLAC Mulhouse
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12507.jpg
-2 FORM JPG
-1 FAMC @F42@
-0 @I20200@ INDI
-1 NAME N.N /LECLÈRE/
-2 GIVN N.N
-2 SURN LECLÈRE
-1 FAMS @F44@
-0 @I12021@ INDI
-1 NAME Jean-Marc /HENRY/
-2 GIVN Jean-Marc
-2 SURN HENRY
-1 SEX M
-1 BIRT
-2 DATE 21 JUL 1938
-1 DEAT
-2 DATE dcd
-2 PLAC Obernai
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12021.jpg
-2 FORM JPG
-1 FAMS @F45@
-0 @I12120@ INDI
-1 NAME Jean /HENRY/
-2 GIVN Jean
-2 SURN HENRY
-1 SEX M
-1 BIRT
-2 DATE 10 NOV 1965
-2 PLAC Saverne
-1 DEAT
-2 DATE 19 JUN 1989
-1 FAMC @F45@
-0 @I12121@ INDI
-1 NAME Eric /HENRY/
-2 GIVN Eric
-2 SURN HENRY
-1 SEX M
-1 BIRT
-2 DATE 03 JUN 1968
-2 PLAC Saverne
-1 FAMS @F46@
-1 FAMC @F45@
-0 @I12122@ INDI
-1 NAME Isabelle /HENRY/
-2 GIVN Isabelle
-2 SURN HENRY
-1 SEX F
-1 BIRT
-2 DATE 25 APR 1970
-2 PLAC Saverne
-1 FAMS @F47@
-1 FAMC @F45@
-0 @I12123@ INDI
-1 NAME Françoise /HENRY/
-2 GIVN Françoise
-2 SURN HENRY
-1 SEX F
-1 BIRT
-2 DATE 28 JAN 1973
-2 PLAC Saverne
-1 FAMS @F48@
-1 FAMC @F45@
-0 @I12124@ INDI
-1 NAME Jules /HENRY/
-2 GIVN Jules
-2 SURN HENRY
-1 SEX M
-1 BIRT
-2 DATE 10 OCT 1995
-2 PLAC Nancy
-1 FAMC @F46@
-0 @I12125@ INDI
-1 NAME Lili /HENRY/
-2 GIVN Lili
-2 SURN HENRY
-1 SEX F
-1 BIRT
-2 DATE 01 DEC 2002
-2 PLAC Metz
-1 FAMC @F46@
-0 @I12126@ INDI
-1 NAME Louis /BIGET/
-2 GIVN Louis
-2 SURN BIGET
-1 SEX M
-1 BIRT
-2 DATE 21 JUL 2002
-2 PLAC Niort
-1 FAMC @F47@
-0 @I12127@ INDI
-1 NAME Marcel /BIGET/
-2 GIVN Marcel
-2 SURN BIGET
-1 SEX M
-1 BIRT
-2 DATE 09 JAN 2008
-2 PLAC Niort
-1 FAMC @F47@
-0 @I12128@ INDI
-1 NAME Thomas /CUEILHES/
-2 GIVN Thomas
-2 SURN CUEILHES
-1 SEX M
-1 BIRT
-2 DATE 20 MAR 2005
-2 PLAC Thionville
-1 FAMC @F48@
 0 @IA12031@ INDI
 1 NAME René /RUEFF/
 2 GIVN René
@@ -1850,54 +1645,55 @@
 1 SEX M
 1 BIRT
 2 DATE 10 JUN 1947
-2 PLAC Sarrebourg
+2 PLAC Sarrebourg, , , , , , 
 1 DEAT
 2 DATE 22 AUG 2022
-2 PLAC Francaltroff
+2 PLAC Francaltroff, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12031.jpg
-2 FORM JPG
-1 FAMS @F49@
+3 FORM JPG
+1 FAMS @F41@
 0 @IA12032@ INDI
 1 NAME Antoine /WIEST/
 2 GIVN Antoine
 2 SURN WIEST
 1 SEX M
 1 BIRT
-2 DATE 03 MAY 1951
-2 PLAC Phalsbourg
+2 DATE 3 MAY 1951
+2 PLAC Phalsbourg, , , , , , 
 1 DEAT
 2 DATE 24 DEC 2024
-2 PLAC Nancy
+2 PLAC Nancy, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12032.jpg
-2 FORM JPG
-1 FAMS @F50@
+3 FORM JPG
+1 FAMS @F42@
 0 @IA12033@ INDI
 1 NAME Marie Noëlle /RUEFF/
-2 GIVN Marie Noëlle
+2 GIVN Marie, Noëlle
 2 SURN RUEFF
 1 SEX F
 1 BIRT
 2 DATE 29 MAR 1972
-2 PLAC Creutzwald
+2 PLAC Creutzwald, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12033.jpg
-2 FORM JPG
-1 FAMS @F52@
-1 FAMC @F49@
+3 FORM JPG
+1 FAMS @F43@
+1 FAMS @F44@
+1 FAMC @F41@
 0 @IA12034@ INDI
 1 NAME Jean Marc /CORDONNIER/
-2 GIVN Jean Marc
+2 GIVN Jean, Marc
 2 SURN CORDONNIER
 1 SEX M
 1 BIRT
 2 DATE 17 SEP 1972
-2 PLAC Creutzwald
+2 PLAC Creutzwald, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12034.jpg
-2 FORM JPG
-1 FAMS @F51@
+3 FORM JPG
+1 FAMS @F44@
 0 @IA12035@ INDI
 1 NAME Frédéric /BASING/
 2 GIVN Frédéric
@@ -1905,12 +1701,12 @@
 1 SEX M
 1 BIRT
 2 DATE 26 MAR 1971
-2 PLAC Moyeuvre Grande
+2 PLAC Moyeuvre Grande, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12035.jpg
-2 FORM JPG
-1 FAMS @F51@
-1 FAMS @F52@
+3 FORM JPG
+1 FAMS @F43@
+1 FAMS @F45@
 0 @IA12036@ INDI
 1 NAME Simon /CORDONNIER/
 2 GIVN Simon
@@ -1918,11 +1714,11 @@
 1 SEX M
 1 BIRT
 2 DATE 28 JAN 2001
-2 PLAC Haguenau
+2 PLAC Haguenau, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12036.jpg
-2 FORM JPG
-1 FAMC @F62@
+3 FORM JPG
+1 FAMC @F44@
 0 @IA12037@ INDI
 1 NAME Elsa /CORDONNIER/
 2 GIVN Elsa
@@ -1930,24 +1726,22 @@
 1 SEX F
 1 BIRT
 2 DATE 27 DEC 2004
-2 PLAC Metz
+2 PLAC Metz, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12037.jpg
-2 FORM JPG
-1 FAMS @F53@
-1 FAMC @F62@
+3 FORM JPG
+1 FAMC @F44@
 0 @IA12038@ INDI
 1 NAME Ethan /PROVOT/
 2 GIVN Ethan
 2 SURN PROVOT
 1 SEX M
 1 BIRT
-2 DATE 01 SEP 2003
-2 PLAC La Garenne-Colombes
+2 DATE 1 SEP 2003
+2 PLAC La Garenne-Colombes, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12038.jpg
-2 FORM JPG
-1 FAMS @F53@
+3 FORM JPG
 0 @IA12039@ INDI
 1 NAME Charlotte /BASING/
 2 GIVN Charlotte
@@ -1955,24 +1749,26 @@
 1 SEX F
 1 BIRT
 2 DATE 15 JUL 2013
-2 PLAC Bar-le-Duc
+2 PLAC Bar-le-Duc, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12039.jpg
-2 FORM JPG
-1 FAMC @F52@
+3 FORM JPG
+1 FAMS @F46@
+1 FAMC @F43@
 0 @IA12040@ INDI
 1 NAME Georges-Pierre /RUEFF/
 2 GIVN Georges-Pierre
 2 SURN RUEFF
 1 SEX M
 1 BIRT
-2 DATE 01 SEP 1975
-2 PLAC Nancy
+2 DATE 1 SEP 1975
+2 PLAC Nancy, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12040.jpg
-2 FORM JPG
-1 FAMS @F54@
-1 FAMC @F49@
+3 FORM JPG
+1 FAMS @F46@
+1 FAMS @F47@
+1 FAMC @F41@
 0 @IA12041@ INDI
 1 NAME Annabelle /GEANTET/
 2 GIVN Annabelle
@@ -1982,8 +1778,8 @@
 2 DATE 29 JAN 1984
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12041.jpg
-2 FORM JPG
-1 FAMS @F54@
+3 FORM JPG
+1 FAMS @F47@
 0 @IA12042@ INDI
 1 NAME Adam /RUEFF GEANTET/
 2 GIVN Adam
@@ -1991,11 +1787,11 @@
 1 SEX M
 1 BIRT
 2 DATE 28 SEP 2008
-2 PLAC Nancy
+2 PLAC Nancy, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12042.jpg
-2 FORM JPG
-1 FAMC @F54@
+3 FORM JPG
+1 FAMC @F47@
 0 @IA12043@ INDI
 1 NAME Ella /RUEFF GEANTET/
 2 GIVN Ella
@@ -2003,34 +1799,250 @@
 1 SEX F
 1 BIRT
 2 DATE 21 MAY 2011
-2 PLAC Forbach
+2 PLAC Forbach, , , , , , 
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12043.jpg
-2 FORM JPG
+3 FORM JPG
+1 FAMC @F46@
+0 @I12041@ INDI
+1 NAME Ginette /KORMANN/
+2 GIVN Ginette
+2 SURN KORMANN
+1 SEX F
+1 BIRT
+2 DATE 15 JAN 1953
+2 PLAC Brumath, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12041.jpg
+3 FORM JPG
+1 FAMS @F48@
+0 @I12042@ INDI
+1 NAME Sandra /ROSENBLATT/
+2 GIVN Sandra
+2 SURN ROSENBLATT
+1 SEX F
+1 BIRT
+2 DATE 24 JAN 1967
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12042.jpg
+3 FORM JPG
+1 FAMS @F49@
+0 @I12500@ INDI
+1 NAME Morgan /BECKER/
+2 GIVN Morgan
+2 SURN BECKER
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1975
+2 PLAC Strasbourg, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12500.jpg
+3 FORM JPG
+1 FAMS @F50@
+1 FAMC @F48@
+0 @I12501@ INDI
+1 NAME Mélanie /MEVEL-BECKER/
+2 GIVN Mélanie
+2 SURN MEVEL-BECKER
+1 SEX F
+1 BIRT
+2 DATE 4 OCT 1979
+2 PLAC Rennes, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12501.jpg
+3 FORM JPG
+1 FAMS @F50@
+0 @I12502@ INDI
+1 NAME Iana /MEVEL-BECKER/
+2 GIVN Iana
+2 SURN MEVEL-BECKER
+1 SEX F
+1 BIRT
+2 DATE 20 JUN 2009
+2 PLAC Rennes, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12502.jpg
+3 FORM JPG
+1 FAMC @F50@
+0 @I12504@ INDI
+1 NAME Karen /BECKER/
+2 GIVN Karen
+2 SURN BECKER
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1977
+2 PLAC Strasbourg, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12504.jpg
+3 FORM JPG
+1 FAMS @F51@
+1 FAMC @F48@
+0 @I12505@ INDI
+1 NAME Orane /LECLÈRE/
+2 GIVN Orane
+2 SURN LECLÈRE
+1 SEX F
+1 BIRT
+2 DATE 31 OCT 2008
+2 PLAC Bayonne, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12505.jpg
+3 FORM JPG
+1 FAMC @F51@
+0 @I12506@ INDI
+1 NAME Izia /LECLÈRE/
+2 GIVN Izia
+2 SURN LECLÈRE
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 2013
+2 PLAC Bayonne, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12506.jpg
+3 FORM JPG
+1 FAMC @F51@
+0 @I12507@ INDI
+1 NAME Romain /BECKER/
+2 GIVN Romain
+2 SURN BECKER
+1 SEX M
+1 BIRT
+2 DATE 22 MAR 1999
+2 PLAC Mulhouse, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12507.jpg
+3 FORM JPG
+1 FAMC @F49@
+0 @I20200@ INDI
+1 NAME N.N /LECLÈRE/
+2 GIVN N.N
+2 SURN LECLÈRE
+1 SEX M
+1 FAMS @F51@
+0 @I12021@ INDI
+1 NAME Jean-Marc /HENRY/
+2 GIVN Jean-Marc
+2 SURN HENRY
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1938
+1 DEAT
+2 DATE DCD
+2 PLAC Obernai, , , , , , 
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12021.jpg
+3 FORM JPG
+1 FAMS @F52@
+0 @I12120@ INDI
+1 NAME Jean /HENRY/
+2 GIVN Jean
+2 SURN HENRY
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1965
+2 PLAC Saverne, , , , , , 
+1 DEAT
+2 DATE 19 JUN 1989
+1 FAMC @F52@
+0 @I12121@ INDI
+1 NAME Eric /HENRY/
+2 GIVN Eric
+2 SURN HENRY
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1968
+2 PLAC Saverne, , , , , , 
+1 FAMS @F53@
+1 FAMC @F52@
+0 @I12122@ INDI
+1 NAME Isabelle /HENRY/
+2 GIVN Isabelle
+2 SURN HENRY
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1970
+2 PLAC Saverne, , , , , , 
+1 FAMS @F54@
+1 FAMC @F52@
+0 @I12123@ INDI
+1 NAME Françoise /HENRY/
+2 GIVN Françoise
+2 SURN HENRY
+1 SEX F
+1 BIRT
+2 DATE 28 JAN 1973
+2 PLAC Saverne, , , , , , 
+1 FAMS @F55@
+1 FAMC @F52@
+0 @I12124@ INDI
+1 NAME Jules /HENRY/
+2 GIVN Jules
+2 SURN HENRY
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1995
+2 PLAC Nancy, , , , , , 
+1 FAMC @F53@
+0 @I12125@ INDI
+1 NAME Lili /HENRY/
+2 GIVN Lili
+2 SURN HENRY
+1 SEX F
+1 BIRT
+2 DATE 1 DEC 2002
+2 PLAC Metz, , , , , , 
+1 FAMC @F53@
+0 @I12126@ INDI
+1 NAME Louis /BIGET/
+2 GIVN Louis
+2 SURN BIGET
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 2002
+2 PLAC Niort, , , , , , 
 1 FAMC @F54@
+0 @I12127@ INDI
+1 NAME Marcel /BIGET/
+2 GIVN Marcel
+2 SURN BIGET
+1 SEX M
+1 BIRT
+2 DATE 9 JAN 2008
+2 PLAC Niort, , , , , , 
+1 FAMC @F54@
+0 @I12128@ INDI
+1 NAME Thomas /CUEILHES/
+2 GIVN Thomas
+2 SURN CUEILHES
+1 SEX M
+1 BIRT
+2 DATE 20 MAR 2005
+2 PLAC Thionville, , , , , , 
+1 FAMC @F55@
 0 @I30000@ INDI
 1 NAME Joachim /FUTTERER/
 2 GIVN Joachim
 2 SURN FUTTERER
 1 SEX M
 1 BIRT
-2 DATE 01 APR 1867
-2 PLAC Rotenfels Winkel Allemagne
+2 DATE 1 APR 1867
+2 PLAC Rotenfels Winkel Allemagne, , , , , , 
 1 DEAT
-2 PLAC La Walk
-1 FAMS @F55@
+2 PLAC La Walk, , , , , , 
+1 FAMS @F56@
 0 @I30001@ INDI
 1 NAME Adèle Joséphine /BRUNAGEL/
-2 GIVN Adèle Joséphine
+2 GIVN Adèle, Joséphine
 2 SURN BRUNAGEL
 1 SEX F
 1 BIRT
 2 DATE 23 DEC 1864
-2 PLAC La Walk
+2 PLAC La Walk, , , , , , 
 1 DEAT
 2 DATE 13 APR 1905
-2 PLAC La Walk
-1 FAMS @F55@
+2 PLAC La Walk, , , , , , 
+1 FAMS @F56@
+1 FAMS @F63@
 0 @I31000@ INDI
 1 NAME Charles /BRUNAGEL FUTTERER/
 2 GIVN Charles
@@ -2044,7 +2056,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1893
-1 FAMC @F55@
+1 FAMC @F56@
 0 @I33000@ INDI
 1 NAME Thérèse /FUTTERER/
 2 GIVN Thérèse
@@ -2052,34 +2064,34 @@
 1 SEX F
 1 BIRT
 2 DATE 1895
-1 FAMC @F55@
+1 FAMC @F56@
 0 @I34000@ INDI
 1 NAME Joseph Joachim /FUTTERER/
-2 GIVN Joseph Joachim
+2 GIVN Joseph, Joachim
 2 SURN FUTTERER
 1 SEX M
 1 BIRT
 2 DATE 1897
-1 FAMS @F56@
-1 FAMC @F55@
+1 FAMS @F57@
+1 FAMC @F56@
 0 @I35000@ INDI
 1 NAME Antoine /FUTTERER/
 2 GIVN Antoine
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F56@
 0 @I36000@ INDI
 1 NAME Paul /FUTTERER/
 2 GIVN Paul
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F56@
 0 @I37000@ INDI
 1 NAME Jérome /FUTTERER/
 2 GIVN Jérome
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F56@
 0 @I34001@ INDI
 1 NAME Madeleine /RUCH/
 2 GIVN Madeleine
@@ -2087,12 +2099,12 @@
 1 SEX F
 1 BIRT
 2 DATE 30 DEC 1895
-2 PLAC Mertzwiller 67
+2 PLAC Mertzwiller 67, , , , , , 
 1 DEAT
 2 DATE 28 DEC 1983
-2 PLAC Mertzwiller 67
-1 FAMS @F56@
-1 FAMC @F59@
+2 PLAC Mertzwiller 67, , , , , , 
+1 FAMS @F57@
+1 FAMC @F60@
 0 @I34002@ INDI
 1 NAME Madeleine /FUTTERER/
 2 GIVN Madeleine
@@ -2102,19 +2114,21 @@
 2 DATE 1924
 1 DEAT
 2 DATE 1962
-2 PLAC Strasbourg 67
-1 FAMC @F56@
+2 PLAC Strasbourg 67, , , , , , 
+1 FAMC @F57@
 0 @I40000@ INDI
 1 NAME Henri /RUCH/
 2 GIVN Henri
 2 SURN RUCH
 1 SEX M
+1 FAMS @F64@
 0 @I40001@ INDI
 1 NAME Margaretha /LINDENMANN/
 2 GIVN Margaretha
 2 SURN LINDENMANN
 1 SEX F
-1 FAMS @F57@
+1 FAMS @F58@
+1 FAMS @F64@
 0 @I41000@ INDI
 1 NAME Jacques /RUCH/
 2 GIVN Jacques
@@ -2124,9 +2138,9 @@
 2 DATE 22 JAN 1866
 1 DEAT
 2 DATE 15 JUL 1950
-2 PLAC Mertzwiller 67
-1 FAMS @F58@
+2 PLAC Mertzwiller 67, , , , , , 
 1 FAMS @F59@
+1 FAMS @F60@
 1 FAMC @F64@
 0 @I41001@ INDI
 1 NAME Sophie /DOCK/
@@ -2134,42 +2148,42 @@
 2 SURN DOCK
 1 SEX F
 1 DEAT
-2 DATE 08 MAR 1905
-1 FAMS @F58@
+2 DATE 8 MAR 1905
+1 FAMS @F59@
 0 @I41002@ INDI
 1 NAME Madeleine Sophie /BOWE/
-2 GIVN Madeleine Sophie
+2 GIVN Madeleine, Sophie
 2 SURN BOWE
 1 SEX F
 1 BIRT
 2 DATE 17 FEB 1869
 1 DEAT
 2 DATE 26 APR 1948
-1 FAMS @F59@
+1 FAMS @F60@
 0 @I42000@ INDI
 1 NAME Henri /RUCH/
 2 GIVN Henri
 2 SURN RUCH
 1 SEX M
 1 BIRT
-2 DATE 01 APR 1894
-1 FAMC @F58@
+2 DATE 1 APR 1894
+1 FAMC @F59@
 0 @I43000@ INDI
 1 NAME Georges /RUCH/
 2 GIVN Georges
 2 SURN RUCH
 1 SEX M
 1 BIRT
-2 DATE 06 AUG 1897
-1 FAMC @F59@
+2 DATE 6 AUG 1897
+1 FAMC @F60@
 0 @I44000@ INDI
 1 NAME Charles /RUCH/
 2 GIVN Charles
 2 SURN RUCH
 1 SEX M
 1 BIRT
-2 DATE 02 NOV 1898
-1 FAMC @F59@
+2 DATE 2 NOV 1898
+1 FAMC @F60@
 0 @I45000@ INDI
 1 NAME Caroline /RUCH/
 2 GIVN Caroline
@@ -2177,26 +2191,26 @@
 1 SEX F
 1 BIRT
 2 DATE 29 DEC 1901
-1 FAMC @F59@
+1 FAMC @F60@
 0 @I46000@ INDI
 1 NAME Marguerite /RUCH/
 2 GIVN Marguerite
 2 SURN RUCH
 1 SEX F
 1 BIRT
-2 DATE 09 SEP 1904
-1 FAMC @F59@
+2 DATE 9 SEP 1904
+1 FAMC @F60@
 0 @INN01@ INDI
-1 NAME  /?/
-2 SURN ?
+1 NAME /INCONNU/
+2 SURN INCONNU
 1 SEX M
-1 FAMS @F47@
-1 FAMS @F48@
+1 FAMS @F54@
+1 FAMS @F55@
 0 @INN02@ INDI
-1 NAME  /?/
-2 SURN ?
+1 NAME /INCONNU/
+2 SURN INCONNU
 1 SEX F
-1 FAMS @F46@
+1 FAMS @F53@
 0 @F1@ FAM
 1 HUSB @IA1@
 1 WIFE @IA2@
@@ -2214,7 +2228,7 @@
 1 HUSB @I3@
 1 WIFE @I4@
 1 MARR
-2 DATE 04 JUL 1707
+2 DATE 4 JUL 1707
 1 CHIL @I5.1@
 1 CHIL @I5@
 0 @F4@ FAM
@@ -2227,8 +2241,8 @@
 1 HUSB @I5@
 1 WIFE @I6@
 1 MARR
-2 DATE 01 JAN 1757
-2 PLAC Weiher (D)
+2 DATE 1 JAN 1757
+2 PLAC Weiher (D), , , , , , 
 1 CHIL @I7@
 1 CHIL @I7.1@
 1 CHIL @I8@
@@ -2245,7 +2259,7 @@
 1 WIFE @I16@
 1 MARR
 2 DATE 17 FEB 1784
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 CHIL @I18@
 1 CHIL @I17@
 1 CHIL @I19@
@@ -2259,13 +2273,13 @@
 1 WIFE @I16.1@
 1 MARR
 2 DATE 16 FEB 1801
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 0 @F8@ FAM
 1 HUSB @I22@
 1 WIFE @I25@
 1 MARR
 2 DATE 10 AUG 1817
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 CHIL @I26@
 1 CHIL @I27@
 1 CHIL @I28@
@@ -2278,7 +2292,7 @@
 1 WIFE @I33@
 1 MARR
 2 DATE 13 AUG 1844
-2 PLAC Weiher (D)
+2 PLAC Weiher (D), , , , , , 
 1 CHIL @I35@
 1 CHIL @I34@
 1 CHIL @I36@
@@ -2314,7 +2328,7 @@
 1 WIFE @I10001@
 1 MARR
 2 DATE 25 APR 1916
-2 PLAC Bruchsal (D)
+2 PLAC Bruchsal (D), , , , , , 
 1 CHIL @I14000@
 1 CHIL @I15000@
 1 CHIL @I11000@
@@ -2325,7 +2339,7 @@
 1 WIFE @I14001@
 1 MARR
 2 DATE 16 APR 1945
-2 PLAC Willer sur Thur
+2 PLAC Willer sur Thur, , , , , , 
 1 CHIL @I14100@
 1 CHIL @I14200@
 1 CHIL @I14300@
@@ -2348,13 +2362,13 @@
 1 WIFE @I14201@
 1 MARR
 2 DATE 22 FEB 2006
-2 PLAC (UL)
+2 PLAC (UL), , , , , , 
 0 @F18@ FAM
 1 HUSB @I12004@
 1 WIFE @I12003@
 1 MARR
 2 DATE 17 JAN 1970
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 CHIL @I12005@
 1 CHIL @I12006@
 0 @F19@ FAM
@@ -2362,7 +2376,7 @@
 1 WIFE @I12005@
 1 MARR
 2 DATE 2 SEP 1995
-2 PLAC Clamart (Divorcée)
+2 PLAC Clamart (Divorcée), , , , , , 
 1 CHIL @I12009@
 1 CHIL @I12010@
 0 @F20@ FAM
@@ -2370,7 +2384,7 @@
 1 WIFE @I12006@
 1 MARR
 2 DATE 5 MAY 2017
-2 PLAC Strasbourg
+2 PLAC Strasbourg, , , , , , 
 1 CHIL @I12011@
 1 CHIL @I12012@
 0 @F21@ FAM
@@ -2381,7 +2395,7 @@
 1 WIFE @I15001@
 1 MARR
 2 DATE 25 NOV 1947
-2 PLAC Bitschwiller les Thann
+2 PLAC Bitschwiller les Thann, , , , , , 
 1 CHIL @I15100@
 1 CHIL @I15200@
 1 CHIL @I15400@
@@ -2391,7 +2405,7 @@
 1 WIFE @I15200@
 1 MARR
 2 DATE 25 JUL 1980
-2 PLAC Morschwiller le Bas
+2 PLAC Morschwiller le Bas, , , , , , 
 1 CHIL @I15202@
 1 CHIL @I15203@
 0 @F24@ FAM
@@ -2410,8 +2424,8 @@
 1 HUSB @I15100@
 1 WIFE @I15101@
 1 MARR
-2 DATE 03 JUL 1970
-2 PLAC Cernay
+2 DATE 3 JUL 1970
+2 PLAC Cernay, , , , , , 
 1 CHIL @I15102@
 1 CHIL @I15104@
 0 @F28@ FAM
@@ -2455,7 +2469,7 @@
 1 WIFE @I14101@
 1 MARR
 2 DATE 2 SEP 1967
-2 PLAC Wisches (67)
+2 PLAC Wisches (67), , , , , , 
 1 CHIL @I14110@
 1 CHIL @I14120@
 0 @F35@ FAM
@@ -2479,8 +2493,8 @@
 1 HUSB @I14401@
 1 WIFE @I14400@
 1 MARR
-2 DATE 08 MAR 1969
-2 PLAC Rouen (Divorcée 19/03/2002)
+2 DATE 8 MAR 1969
+2 PLAC Rouen (Divorcée 19/03/2002), , , , , , 
 1 CHIL @I14402@
 1 CHIL @I14406@
 0 @F39@ FAM
@@ -2494,89 +2508,97 @@
 1 CHIL @I14408@
 1 CHIL @I14409@
 0 @F41@ FAM
+1 HUSB @IA12031@
+1 WIFE @IA12030@
+1 MARR
+2 DATE 17 DEC 1970
+2 PLAC Strasbourg, , , , , , 
+1 CHIL @IA12033@
+1 CHIL @IA12040@
+0 @F42@ FAM
+1 HUSB @IA12032@
+1 WIFE @IA12030@
+1 MARR
+2 DATE 9 OCT 1991
+2 PLAC Chateau-Voué, , , , , , 
+0 @F43@ FAM
+1 HUSB @IA12035@
+1 WIFE @IA12033@
+1 MARR
+2 DATE 27 AUG 1990
+2 PLAC Strasbourg, , , , , , 
+1 CHIL @IA12039@
+0 @F44@ FAM
+1 HUSB @IA12034@
+1 WIFE @IA12033@
+1 MARR
+2 DATE 27 AUG 1990
+2 PLAC Strasbourg, , , , , , 
+1 CHIL @IA12036@
+1 CHIL @IA12037@
+0 @F45@ FAM
+1 HUSB @IA12035@
+1 WIFE @IA12035@
+1 MARR
+2 DATE 29 JUN 2017
+2 PLAC Bar-le-Duc, , , , , , 
+0 @F46@ FAM
+1 HUSB @IA12040@
+1 WIFE @IA12039@
+1 CHIL @IA12043@
+0 @F47@ FAM
+1 HUSB @IA12040@
+1 WIFE @IA12041@
+1 MARR
+2 DATE DIVORCÉS
+1 CHIL @IA12042@
+0 @F48@ FAM
 1 HUSB @I12040@
 1 WIFE @I12041@
 1 MARR
-2 PLAC (Divorcé)
+2 PLAC (Divorcé), , , , , , 
 1 CHIL @I12500@
 1 CHIL @I12504@
-0 @F42@ FAM
+0 @F49@ FAM
 1 HUSB @I12040@
 1 WIFE @I12042@
 1 MARR
-2 PLAC (Divorcé)
+2 PLAC (Divorcé), , , , , , 
 1 CHIL @I12507@
-0 @F43@ FAM
+0 @F50@ FAM
 1 HUSB @I12500@
 1 WIFE @I12501@
 1 MARR
-2 DATE 05 JUL 2008
-2 PLAC Rennes
+2 DATE 5 JUL 2008
+2 PLAC Rennes, , , , , , 
 1 CHIL @I12502@
-0 @F44@ FAM
+0 @F51@ FAM
 1 HUSB @I20200@
 1 WIFE @I12504@
 1 CHIL @I12505@
 1 CHIL @I12506@
-0 @F45@ FAM
+0 @F52@ FAM
 1 HUSB @I12021@
 1 WIFE @I12020@
 1 CHIL @I12120@
 1 CHIL @I12121@
 1 CHIL @I12122@
 1 CHIL @I12123@
-0 @F46@ FAM
+0 @F53@ FAM
 1 HUSB @I12121@
 1 WIFE @INN02@
 1 CHIL @I12124@
 1 CHIL @I12125@
-0 @F47@ FAM
+0 @F54@ FAM
 1 HUSB @INN01@
 1 WIFE @I12122@
 1 CHIL @I12126@
 1 CHIL @I12127@
-0 @F48@ FAM
+0 @F55@ FAM
 1 HUSB @INN01@
 1 WIFE @I12123@
 1 CHIL @I12128@
-0 @F49@ FAM
-1 HUSB @IA12031@
-1 WIFE @IA12030@
-1 MARR
-2 DATE 17 DEC 1970
-2 PLAC Strasbourg (divorcés)
-1 CHIL @IA12033@
-1 CHIL @IA12040@
-0 @F50@ FAM
-1 HUSB @IA12032@
-1 WIFE @IA12030@
-1 MARR
-2 DATE 09 OCT 1991
-2 PLAC Chateau-Voué
-0 @F51@ FAM
-1 HUSB @IA12034@
-1 WIFE @IA12035@
-1 MARR
-2 DATE 27 AUG 1990
-2 PLAC Strasbourg (Divorcés)
-0 @F52@ FAM
-1 HUSB @IA12035@
-1 WIFE @IA12033@
-1 MARR
-2 DATE 29 JUN 2017
-2 PLAC Bar-le-Duc
-1 CHIL @IA12039@
-0 @F53@ FAM
-1 HUSB @IA12038@
-1 WIFE @IA12037@
-0 @F54@ FAM
-1 HUSB @IA12040@
-1 WIFE @IA12041@
-1 MARR
-2 PLAC Divorcés
-1 CHIL @IA12042@
-1 CHIL @IA12043@
-0 @F55@ FAM
+0 @F56@ FAM
 1 HUSB @I30000@
 1 WIFE @I30001@
 1 CHIL @I32000@
@@ -2585,19 +2607,19 @@
 1 CHIL @I35000@
 1 CHIL @I36000@
 1 CHIL @I37000@
-0 @F56@ FAM
+0 @F57@ FAM
 1 HUSB @I34000@
 1 WIFE @I34001@
 1 CHIL @I14001@
 1 CHIL @I34002@
-0 @F57@ FAM
+0 @F58@ FAM
 1 HUSB @I40001@
 1 WIFE @I40001@
-0 @F58@ FAM
+0 @F59@ FAM
 1 HUSB @I41000@
 1 WIFE @I41001@
 1 CHIL @I42000@
-0 @F59@ FAM
+0 @F60@ FAM
 1 HUSB @I41000@
 1 WIFE @I41002@
 1 CHIL @I34001@
@@ -2605,18 +2627,13 @@
 1 CHIL @I44000@
 1 CHIL @I45000@
 1 CHIL @I46000@
-0 @F60@ FAM
+0 @F61@ FAM
 1 HUSB @I10001.1@
 1 WIFE @I10001.2@
 1 CHIL @I10001@
-0 @F61@ FAM
+0 @F62@ FAM
 1 HUSB @I15402@
 1 CHIL @I15404@
-0 @F62@ FAM
-1 HUSB @IA12034@
-1 WIFE @IA12033@
-1 CHIL @IA12036@
-1 CHIL @IA12037@
 0 @F63@ FAM
 1 WIFE @I30001@
 1 CHIL @I31000@
