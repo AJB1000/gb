@@ -1785,9 +1785,6 @@
 1 BIRT
 2 DATE 02 APR 1975
 2 PLAC Düsseldorf RFA
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14406.jpg
-2 FORM JPG
 1 FAMS @F44@
 1 FAMC @F42@
 0 @I14407@ INDI
@@ -1798,9 +1795,6 @@
 1 BIRT
 2 DATE 16 NOV 1982
 2 PLAC Villefranche s/Saône
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14407.jpg
-2 FORM JPG
 1 FAMS @F44@
 0 @I14408@ INDI
 1 NAME Abel /DESPRÉAUX REMY/
@@ -1810,9 +1804,6 @@
 1 BIRT
 2 DATE 23 JAN 2015
 2 PLAC Givors 69
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14408.jpg
-2 FORM JPG
 1 FAMC @F44@
 0 @I14409@ INDI
 1 NAME Romane /DESPRÉAUX REMY/
@@ -1822,9 +1813,6 @@
 1 BIRT
 2 DATE 13 JUN 2017
 2 PLAC Givors 69
-1 OBJE
-2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14409.jpg
-2 FORM JPG
 1 FAMC @F44@
 0 @I12041@ INDI
 1 NAME Ginette /KORMANN/
