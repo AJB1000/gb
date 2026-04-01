@@ -699,7 +699,7 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/10001.jpg
 2 FORM JPG
 1 FAMS @F13@
-1 FAMC @F60@
+1 FAMC @F63@
 0 @I10001.1@ INDI
 1 NAME Alexandre /SPENLENHAUER/
 2 GIVN Alexandre
@@ -752,11 +752,11 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13000.jpg
 2 FORM JPG
-1 FAMS @F36@
+1 FAMS @F37@
 1 FAMC @F13@
 0 @I14000@ INDI
-1 NAME Edouard /BECKER/
-2 GIVN Edouard
+1 NAME Édouard /BECKER/
+2 GIVN Édouard
 2 SURN BECKER
 1 SEX M
 1 BIRT
@@ -783,7 +783,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15000.jpg
 2 FORM JPG
-1 FAMS @F22@
+1 FAMS @F23@
 1 FAMC @F13@
 0 @I14001@ INDI
 1 NAME Marie Thérèse /FUTTERER/
@@ -800,7 +800,7 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14001.jpg
 2 FORM JPG
 1 FAMS @F14@
-1 FAMC @F56@
+1 FAMC @F59@
 0 @I14100@ INDI
 1 NAME Michel /BECKER/
 2 GIVN Michel
@@ -812,7 +812,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14100.jpg
 2 FORM JPG
-1 FAMS @F34@
+1 FAMS @F35@
 1 FAMC @F14@
 0 @I14200@ INDI
 1 NAME André /BECKER/
@@ -826,10 +826,11 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14200.jpg
 2 FORM JPG
 1 FAMS @F17@
+1 FAMS @F18@
 1 FAMC @F14@
 0 @I14300@ INDI
-1 NAME Edouard /BECKER/
-2 GIVN Edouard
+1 NAME Édouard /BECKER/
+2 GIVN Édouard
 2 SURN BECKER
 1 SEX M
 1 BIRT
@@ -838,7 +839,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14300.jpg
 2 FORM JPG
-1 FAMS @F31@
+1 FAMS @F32@
 1 FAMC @F14@
 0 @I14400@ INDI
 1 NAME Marie Thérèse /BECKER/
@@ -852,7 +853,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14400.jpg
 2 FORM JPG
-1 FAMS @F38@
+1 FAMS @F41@
 1 FAMC @F14@
 0 @I11001@ INDI
 1 NAME Denise /LAROCHE/
@@ -904,6 +905,16 @@
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14201.jpg
 2 FORM JPG
 1 FAMS @F17@
+0 @I14202@ INDI
+1 NAME Édith /NAIGEON/
+2 GIVN Édith
+2 SURN NAIGEON
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 DEAT
+2 PLAC Strasbourg
+1 FAMS @F18@
 0 @I12003@ INDI
 1 NAME Yvette /BECKER/
 2 GIVN Yvette
@@ -915,7 +926,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12003.jpg
 2 FORM JPG
-1 FAMS @F18@
+1 FAMS @F19@
 1 FAMC @F16@
 0 @I12004@ INDI
 1 NAME Dominique /VOYER/
@@ -928,7 +939,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12004.jpg
 2 FORM JPG
-1 FAMS @F18@
+1 FAMS @F19@
 0 @I12005@ INDI
 1 NAME Magali /VOYER/
 2 GIVN Magali
@@ -941,8 +952,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12005.jpg
 2 FORM JPG
-1 FAMS @F19@
-1 FAMC @F18@
+1 FAMS @F20@
+1 FAMC @F19@
 0 @I12006@ INDI
 1 NAME Tania /VOYER/
 2 GIVN Tania
@@ -954,8 +965,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12006.jpg
 2 FORM JPG
-1 FAMS @F20@
-1 FAMC @F18@
+1 FAMS @F21@
+1 FAMC @F19@
 0 @I12007@ INDI
 1 NAME Bertrand /ZUGMERYER/
 2 GIVN Bertrand
@@ -967,7 +978,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12007.jpg
 2 FORM JPG
-1 FAMS @F20@
+1 FAMS @F21@
 0 @I12008@ INDI
 1 NAME Dominique /WATIER/
 2 GIVN Dominique
@@ -976,7 +987,7 @@
 1 BIRT
 2 DATE 10 MAY 1969
 2 PLAC Paris
-1 FAMS @F19@
+1 FAMS @F20@
 0 @I12009@ INDI
 1 NAME Maxime /WATIER/
 2 GIVN Maxime
@@ -988,8 +999,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12009.jpg
 2 FORM JPG
-1 FAMS @F21@
-1 FAMC @F19@
+1 FAMS @F22@
+1 FAMC @F20@
 0 @I12010@ INDI
 1 NAME Clément /WATIER/
 2 GIVN Clément
@@ -1001,7 +1012,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12010.jpg
 2 FORM JPG
-1 FAMC @F19@
+1 FAMC @F20@
 0 @I12011@ INDI
 1 NAME Maéva /ZUGMERYER-VOYER/
 2 GIVN Maéva
@@ -1013,7 +1024,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12011.jpg
 2 FORM JPG
-1 FAMC @F20@
+1 FAMC @F21@
 0 @I12012@ INDI
 1 NAME Eliot /ZUGMERYER-VOYER/
 2 GIVN Eliot
@@ -1025,7 +1036,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12012.jpg
 2 FORM JPG
-1 FAMC @F20@
+1 FAMC @F21@
 0 @I12013@ INDI
 1 NAME Julie /BOYER/
 2 GIVN Julie
@@ -1037,7 +1048,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12013.jpg
 2 FORM JPG
-1 FAMS @F21@
+1 FAMS @F22@
 0 @I12020@ INDI
 1 NAME Christiane /BECKER/
 2 GIVN Christiane
@@ -1049,7 +1060,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12020.jpg
 2 FORM JPG
-1 FAMS @F45@
+1 FAMS @F48@
 1 FAMC @F16@
 0 @IA12030@ INDI
 1 NAME Andrée /BECKER/
@@ -1062,8 +1073,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12030.jpg
 2 FORM JPG
-1 FAMS @F49@
-1 FAMS @F50@
+1 FAMS @F52@
+1 FAMS @F53@
 1 FAMC @F16@
 0 @I12040@ INDI
 1 NAME Louis /BECKER/
@@ -1076,8 +1087,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12040.jpg
 2 FORM JPG
-1 FAMS @F41@
-1 FAMS @F42@
+1 FAMS @F44@
+1 FAMS @F45@
 1 FAMC @F16@
 0 @I15001@ INDI
 1 NAME Elisabeth /MARENT/
@@ -1093,7 +1104,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15001.jpg
 2 FORM JPG
-1 FAMS @F22@
+1 FAMS @F23@
 0 @I15200@ INDI
 1 NAME Elisabeth /BECKER/
 2 GIVN Elisabeth
@@ -1102,8 +1113,8 @@
 1 BIRT
 2 DATE 09 JUN 1950
 2 PLAC Thann
-1 FAMS @F23@
-1 FAMC @F22@
+1 FAMS @F24@
+1 FAMC @F23@
 0 @I15201@ INDI
 1 NAME Benny /BAKIS/
 2 GIVN Benny
@@ -1112,7 +1123,7 @@
 1 BIRT
 2 DATE 7 OCT 1953
 2 PLAC Haiffa (Israel)
-1 FAMS @F23@
+1 FAMS @F24@
 0 @I15202@ INDI
 1 NAME Arnaud /BAKIS/
 2 GIVN Arnaud
@@ -1124,21 +1135,21 @@
 1 DEAT
 2 DATE 3 DEC 2003
 2 PLAC Strasbourg
-1 FAMS @F24@
 1 FAMS @F25@
-1 FAMC @F23@
+1 FAMS @F26@
+1 FAMC @F24@
 0 @I15202.1@ INDI
 1 NAME Emmanuelle /SIITLER/
 2 GIVN Emmanuelle
 2 SURN SIITLER
 1 SEX F
-1 FAMS @F24@
+1 FAMS @F25@
 0 @I15202.2@ INDI
 1 NAME N.N /NN/
 2 GIVN N.N
 2 SURN NN
 1 SEX F
-1 FAMS @F25@
+1 FAMS @F26@
 0 @I15203@ INDI
 1 NAME Jacques Ouriel /BAKIS/
 2 GIVN Jacques Ouriel
@@ -1147,8 +1158,8 @@
 1 BIRT
 2 DATE 9 SEP 1981
 2 PLAC Mulhouse
-1 FAMS @F26@
-1 FAMC @F23@
+1 FAMS @F27@
+1 FAMC @F24@
 0 @I15204@ INDI
 1 NAME Audric /BAKIS/
 2 GIVN Audric
@@ -1157,7 +1168,7 @@
 1 BIRT
 2 DATE 22 OCT 1999
 2 PLAC Colmar
-1 FAMC @F24@
+1 FAMC @F25@
 0 @I15205@ INDI
 1 NAME Elijah /BAKIS/
 2 GIVN Elijah
@@ -1166,7 +1177,7 @@
 1 BIRT
 2 DATE 23 FEB 2003
 2 PLAC Strasbourg
-1 FAMC @F25@
+1 FAMC @F26@
 0 @I15206@ INDI
 1 NAME Jennifer /BRICE/
 2 GIVN Jennifer
@@ -1175,7 +1186,7 @@
 1 BIRT
 2 DATE 4 APR 1985
 2 PLAC Colmar
-1 FAMS @F26@
+1 FAMS @F27@
 0 @I15207@ INDI
 1 NAME Yael /BAKIS/
 2 GIVN Yael
@@ -1184,7 +1195,7 @@
 1 BIRT
 2 DATE 29 MAY 2016
 2 PLAC Strasbourg
-1 FAMC @F26@
+1 FAMC @F27@
 0 @I15100@ INDI
 1 NAME Yves /BECKER/
 2 GIVN Yves
@@ -1196,8 +1207,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15100.jpg
 2 FORM JPG
-1 FAMS @F27@
-1 FAMC @F22@
+1 FAMS @F28@
+1 FAMC @F23@
 0 @I15101@ INDI
 1 NAME Roselyne /GARNIER/
 2 GIVN Roselyne
@@ -1209,7 +1220,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15101.jpg
 2 FORM JPG
-1 FAMS @F27@
+1 FAMS @F28@
 0 @I15300@ INDI
 1 NAME Mathieu /BECKER/
 2 GIVN Mathieu
@@ -1221,7 +1232,7 @@
 1 DEAT
 2 DATE 13 MAY 1954
 2 PLAC Mulhouse
-1 FAMC @F22@
+1 FAMC @F23@
 0 @I15400@ INDI
 1 NAME Monique /BECKER/
 2 GIVN Monique
@@ -1233,8 +1244,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15400.jpg
 2 FORM JPG
-1 FAMS @F28@
-1 FAMC @F22@
+1 FAMS @F29@
+1 FAMC @F23@
 0 @I15102@ INDI
 1 NAME Estelle /BECKER/
 2 GIVN Estelle
@@ -1243,8 +1254,8 @@
 1 BIRT
 2 DATE 29 JAN 1974
 2 PLAC Mulhouse
-1 FAMS @F29@
-1 FAMC @F27@
+1 FAMS @F30@
+1 FAMC @F28@
 0 @I15104@ INDI
 1 NAME Laurent /BECKER/
 2 GIVN Laurent
@@ -1253,8 +1264,8 @@
 1 BIRT
 2 DATE 29 SEP 1978
 2 PLAC Mulhouse
-1 FAMS @F30@
-1 FAMC @F27@
+1 FAMS @F31@
+1 FAMC @F28@
 0 @I15401@ INDI
 1 NAME Christian /SEBILLE/
 2 GIVN Christian
@@ -1268,7 +1279,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/15401.jpg
 2 FORM JPG
-1 FAMS @F28@
+1 FAMS @F29@
 0 @I15402@ INDI
 1 NAME Lionel /SEBILLE/
 2 GIVN Lionel
@@ -1277,7 +1288,7 @@
 1 BIRT
 2 DATE 25 AUG 1976
 2 PLAC Mulhouse
-1 FAMC @F28@
+1 FAMC @F29@
 0 @I15403@ INDI
 1 NAME Romuald /SEBILLE/
 2 GIVN Romuald
@@ -1286,7 +1297,7 @@
 1 BIRT
 2 DATE 15 MAY 1980
 2 PLAC Mulhouse
-1 FAMC @F28@
+1 FAMC @F29@
 0 @I15404@ INDI
 1 NAME Inès /SEBILLE-Blandin/
 2 GIVN Inès
@@ -1294,7 +1305,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUL 2012
-1 FAMC @F61@
+1 FAMC @F64@
 0 @I15103@ INDI
 1 NAME Christian /HUCK/
 2 GIVN Christian
@@ -1302,7 +1313,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 JUN 1974
-1 FAMS @F29@
+1 FAMS @F30@
 0 @I15105@ INDI
 1 NAME Caroline /WEISS/
 2 GIVN Caroline
@@ -1310,7 +1321,7 @@
 1 SEX F
 1 BIRT
 2 DATE 27 MAY 1978
-1 FAMS @F30@
+1 FAMS @F31@
 0 @I15106@ INDI
 1 NAME Julie /HUCK/
 2 GIVN Julie
@@ -1319,7 +1330,7 @@
 1 BIRT
 2 DATE 24 MAY 1996
 2 PLAC Obernai
-1 FAMC @F29@
+1 FAMC @F30@
 0 @I15107@ INDI
 1 NAME Romane /HUCK/
 2 GIVN Romane
@@ -1328,7 +1339,7 @@
 1 BIRT
 2 DATE 18 JUL 2000
 2 PLAC Obernai
-1 FAMC @F29@
+1 FAMC @F30@
 0 @I15108@ INDI
 1 NAME Adrien /HUCK/
 2 GIVN Adrien
@@ -1337,7 +1348,7 @@
 1 BIRT
 2 DATE 29 DEC 2010
 2 PLAC Strasbourg
-1 FAMC @F29@
+1 FAMC @F30@
 0 @I15110@ INDI
 1 NAME Sasha /BECKER/
 2 GIVN Sasha
@@ -1346,7 +1357,7 @@
 1 BIRT
 2 DATE 16 NOV 2011
 2 PLAC Schiltigheim
-1 FAMC @F30@
+1 FAMC @F31@
 0 @I15111@ INDI
 1 NAME Lison /BECKER/
 2 GIVN Lison
@@ -1355,7 +1366,7 @@
 1 BIRT
 2 DATE 06 MAR 2014
 2 PLAC Schiltigheim
-1 FAMC @F30@
+1 FAMC @F31@
 0 @I14301@ INDI
 1 NAME Huguette /ANDRES/
 2 GIVN Huguette
@@ -1366,7 +1377,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14301.jpg
 2 FORM JPG
-1 FAMS @F31@
+1 FAMS @F32@
 0 @I14302@ INDI
 1 NAME Mireille /BECKER/
 2 GIVN Mireille
@@ -1379,8 +1390,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14302.jpg
 2 FORM JPG
-1 FAMS @F32@
-1 FAMC @F31@
+1 FAMS @F33@
+1 FAMC @F32@
 0 @I14303@ INDI
 1 NAME Mélanie /BECKER/
 2 GIVN Mélanie
@@ -1391,8 +1402,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14303.jpg
 2 FORM JPG
-1 FAMS @F33@
-1 FAMC @F31@
+1 FAMS @F34@
+1 FAMC @F32@
 0 @I14304@ INDI
 1 NAME Chris /ZILVITIS/
 2 GIVN Chris
@@ -1403,7 +1414,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14304.jpg
 2 FORM JPG
-1 FAMS @F32@
+1 FAMS @F33@
 0 @I14305@ INDI
 1 NAME Rosalie /ZILVITIS/
 2 GIVN Rosalie
@@ -1414,7 +1425,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14305.jpg
 2 FORM JPG
-1 FAMC @F32@
+1 FAMC @F33@
 0 @I14306@ INDI
 1 NAME Bradley /STARRING/
 2 GIVN Bradley
@@ -1425,7 +1436,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14306.jpg
 2 FORM JPG
-1 FAMS @F33@
+1 FAMS @F34@
 0 @I14307@ INDI
 1 NAME Dakota /STARRING/
 2 GIVN Dakota
@@ -1436,7 +1447,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14307.jpg
 2 FORM JPG
-1 FAMC @F33@
+1 FAMC @F34@
 0 @I14308@ INDI
 1 NAME Dylan /STARRING/
 2 GIVN Dylan
@@ -1447,7 +1458,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/14308.jpg
 2 FORM JPG
-1 FAMC @F33@
+1 FAMC @F34@
 0 @I14101@ INDI
 1 NAME Michèle /BIANCHI/
 2 GIVN Michèle
@@ -1456,7 +1467,7 @@
 1 BIRT
 2 DATE 26 DEC 1940
 2 PLAC Wisches (67)
-1 FAMS @F34@
+1 FAMS @F35@
 0 @I14110@ INDI
 1 NAME Olivier /BECKER/
 2 GIVN Olivier
@@ -1465,8 +1476,8 @@
 1 BIRT
 2 DATE 19 APR 1968
 2 PLAC Strasbourg (67)
-1 FAMS @F35@
-1 FAMC @F34@
+1 FAMS @F36@
+1 FAMC @F35@
 0 @I14111@ INDI
 1 NAME Manuela /VAZ BRANCO/
 2 GIVN Manuela
@@ -1475,7 +1486,7 @@
 1 BIRT
 2 DATE 12 FEB 1969
 2 PLAC Tulle (19)
-1 FAMS @F35@
+1 FAMS @F36@
 0 @I14112@ INDI
 1 NAME Thomas /BECKER/
 2 GIVN Thomas
@@ -1484,7 +1495,7 @@
 1 BIRT
 2 DATE 6 OCT 2001
 2 PLAC Lagny sur Marne (77)
-1 FAMC @F35@
+1 FAMC @F36@
 0 @I14113@ INDI
 1 NAME Robin /BECKER/
 2 GIVN Robin
@@ -1493,7 +1504,7 @@
 1 BIRT
 2 DATE 19 DEC 2005
 2 PLAC Lagny sur Marne (77)
-1 FAMC @F35@
+1 FAMC @F36@
 0 @I14120@ INDI
 1 NAME Valéry /BECKER/
 2 GIVN Valéry
@@ -1502,7 +1513,7 @@
 1 BIRT
 2 DATE 25 JUN 1970
 2 PLAC Strasbourg (67)
-1 FAMC @F34@
+1 FAMC @F35@
 0 @I13001@ INDI
 1 NAME Charles /LUTZ/
 2 GIVN Charles
@@ -1513,7 +1524,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13001.jpg
 2 FORM JPG
-1 FAMS @F36@
+1 FAMS @F37@
 0 @I13002@ INDI
 1 NAME Janine /LUTZ/
 2 GIVN Janine
@@ -1527,20 +1538,26 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13002.jpg
 2 FORM JPG
-1 FAMS @F37@
-1 FAMC @F36@
+1 FAMS @F38@
+1 FAMC @F37@
 0 @I13003@ INDI
 1 NAME Alain /EUDES/
 2 GIVN Alain
 2 SURN EUDES
 1 SEX M
-1 FAMS @F37@
+1 FAMS @F38@
 0 @I13004@ INDI
 1 NAME Laurence /EUDES/
 2 GIVN Laurence
 2 SURN EUDES
 1 SEX F
-1 FAMC @F37@
+1 BIRT
+2 DATE 07 MAY 1968
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13004.jpg
+2 FORM JPG
+1 FAMC @F38@
 0 @I13005@ INDI
 1 NAME Jean /LUTZ/
 2 GIVN Jean
@@ -1552,7 +1569,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13005.jpg
 2 FORM JPG
-1 FAMC @F36@
+1 FAMS @F39@
+1 FAMC @F37@
 0 @I13006@ INDI
 1 NAME Michèle /LUTZ/
 2 GIVN Michèle
@@ -1563,7 +1581,59 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13006.jpg
 2 FORM JPG
-1 FAMC @F36@
+1 FAMS @F40@
+1 FAMC @F37@
+0 @I13007@ INDI
+1 NAME Jonathan //
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13007.jpg
+2 FORM JPG
+1 FAMC @F39@
+0 @I13008@ INDI
+1 NAME Jérémy //
+2 GIVN Jérémy
+1 SEX M
+1 BIRT
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13008.jpg
+2 FORM JPG
+1 FAMC @F39@
+0 @I13009@ INDI
+1 NAME Julia //
+2 GIVN Julia
+1 SEX F
+1 BIRT
+2 DATE 06 MAR 1977
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13009.jpg
+2 FORM JPG
+1 FAMC @F38@
+0 @I13010@ INDI
+1 NAME Céline //
+2 GIVN Céline
+1 SEX F
+1 BIRT
+2 DATE 74
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13010.jpg
+2 FORM JPG
+0 @I13011@ INDI
+1 NAME Delphine //
+2 GIVN Delphine
+1 SEX F
+1 BIRT
+2 DATE 07 MAY 1968
+2 PLAC Strasbourg
+1 OBJE
+2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/13011.jpg
+2 FORM JPG
 0 @I14401@ INDI
 1 NAME Dominique /DESPRÉAUX/
 2 GIVN Dominique
@@ -1575,7 +1645,7 @@
 1 DEAT
 2 DATE 27 APR 2022
 2 PLAC St Arnoult
-1 FAMS @F38@
+1 FAMS @F41@
 0 @I14402@ INDI
 1 NAME Sébastien /DESPRÉAUX/
 2 GIVN Sébastien
@@ -1584,8 +1654,8 @@
 1 BIRT
 2 DATE 16 JUL 1972
 2 PLAC Düsseldorf RFA
-1 FAMS @F39@
-1 FAMC @F38@
+1 FAMS @F42@
+1 FAMC @F41@
 0 @I14403@ INDI
 1 NAME Sandrine /DI PALMA/
 2 GIVN Sandrine
@@ -1594,7 +1664,7 @@
 1 BIRT
 2 DATE 11 JAN 1974
 2 PLAC Marseille 13
-1 FAMS @F39@
+1 FAMS @F42@
 0 @I14404@ INDI
 1 NAME Chloé /DESPRÉAUX/
 2 GIVN Chloé
@@ -1603,7 +1673,7 @@
 1 BIRT
 2 DATE 17 OCT 1998
 2 PLAC Argenteuil 95
-1 FAMC @F39@
+1 FAMC @F42@
 0 @I14405@ INDI
 1 NAME Lisa /DESPRÉAUX/
 2 GIVN Lisa
@@ -1612,7 +1682,7 @@
 1 BIRT
 2 DATE 13 DEC 2001
 2 PLAC Vannes 56
-1 FAMC @F39@
+1 FAMC @F42@
 0 @I14406@ INDI
 1 NAME Nicolas /DESPRÉAUX/
 2 GIVN Nicolas
@@ -1621,8 +1691,8 @@
 1 BIRT
 2 DATE 02 APR 1975
 2 PLAC Düsseldorf RFA
-1 FAMS @F40@
-1 FAMC @F38@
+1 FAMS @F43@
+1 FAMC @F41@
 0 @I14407@ INDI
 1 NAME Marion /REMY/
 2 GIVN Marion
@@ -1631,7 +1701,7 @@
 1 BIRT
 2 DATE 16 NOV 1982
 2 PLAC Villefranche s/Saône
-1 FAMS @F40@
+1 FAMS @F43@
 0 @I14408@ INDI
 1 NAME Abel /DESPRÉAUX REMY/
 2 GIVN Abel
@@ -1640,7 +1710,7 @@
 1 BIRT
 2 DATE 23 JAN 2015
 2 PLAC Givors 69
-1 FAMC @F40@
+1 FAMC @F43@
 0 @I14409@ INDI
 1 NAME Romane /DESPRÉAUX REMY/
 2 GIVN Romane
@@ -1649,7 +1719,7 @@
 1 BIRT
 2 DATE 13 JUN 2017
 2 PLAC Givors 69
-1 FAMC @F40@
+1 FAMC @F43@
 0 @I12041@ INDI
 1 NAME Ginette /KORMANN/
 2 GIVN Ginette
@@ -1661,7 +1731,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12041.jpg
 2 FORM JPG
-1 FAMS @F41@
+1 FAMS @F44@
 0 @I12042@ INDI
 1 NAME Sandra /ROSENBLATT/
 2 GIVN Sandra
@@ -1672,7 +1742,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12042.jpg
 2 FORM JPG
-1 FAMS @F42@
+1 FAMS @F45@
 0 @I12500@ INDI
 1 NAME Morgan /BECKER/
 2 GIVN Morgan
@@ -1684,8 +1754,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12500.jpg
 2 FORM JPG
-1 FAMS @F43@
-1 FAMC @F41@
+1 FAMS @F46@
+1 FAMC @F44@
 0 @I12501@ INDI
 1 NAME Mélanie /MEVEL-BECKER/
 2 GIVN Mélanie
@@ -1697,7 +1767,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12501.jpg
 2 FORM JPG
-1 FAMS @F43@
+1 FAMS @F46@
 0 @I12502@ INDI
 1 NAME Iana /MEVEL-BECKER/
 2 GIVN Iana
@@ -1709,7 +1779,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12502.jpg
 2 FORM JPG
-1 FAMC @F43@
+1 FAMC @F46@
 0 @I12504@ INDI
 1 NAME Karen /BECKER/
 2 GIVN Karen
@@ -1721,8 +1791,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12504.jpg
 2 FORM JPG
-1 FAMS @F44@
-1 FAMC @F41@
+1 FAMS @F47@
+1 FAMC @F44@
 0 @I12505@ INDI
 1 NAME Orane /LECLÈRE/
 2 GIVN Orane
@@ -1734,7 +1804,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12505.jpg
 2 FORM JPG
-1 FAMC @F44@
+1 FAMC @F47@
 0 @I12506@ INDI
 1 NAME Izia /LECLÈRE/
 2 GIVN Izia
@@ -1746,7 +1816,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12506.jpg
 2 FORM JPG
-1 FAMC @F44@
+1 FAMC @F47@
 0 @I12507@ INDI
 1 NAME Romain /BECKER/
 2 GIVN Romain
@@ -1758,12 +1828,12 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12507.jpg
 2 FORM JPG
-1 FAMC @F42@
+1 FAMC @F45@
 0 @I20200@ INDI
 1 NAME N.N /LECLÈRE/
 2 GIVN N.N
 2 SURN LECLÈRE
-1 FAMS @F44@
+1 FAMS @F47@
 0 @I12021@ INDI
 1 NAME Jean-Marc /HENRY/
 2 GIVN Jean-Marc
@@ -1777,7 +1847,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/12021.jpg
 2 FORM JPG
-1 FAMS @F45@
+1 FAMS @F48@
 0 @I12120@ INDI
 1 NAME Jean /HENRY/
 2 GIVN Jean
@@ -1788,7 +1858,7 @@
 2 PLAC Saverne
 1 DEAT
 2 DATE 19 JUN 1989
-1 FAMC @F45@
+1 FAMC @F48@
 0 @I12121@ INDI
 1 NAME Eric /HENRY/
 2 GIVN Eric
@@ -1797,8 +1867,8 @@
 1 BIRT
 2 DATE 03 JUN 1968
 2 PLAC Saverne
-1 FAMS @F46@
-1 FAMC @F45@
+1 FAMS @F49@
+1 FAMC @F48@
 0 @I12122@ INDI
 1 NAME Isabelle /HENRY/
 2 GIVN Isabelle
@@ -1807,8 +1877,8 @@
 1 BIRT
 2 DATE 25 APR 1970
 2 PLAC Saverne
-1 FAMS @F47@
-1 FAMC @F45@
+1 FAMS @F50@
+1 FAMC @F48@
 0 @I12123@ INDI
 1 NAME Françoise /HENRY/
 2 GIVN Françoise
@@ -1817,8 +1887,8 @@
 1 BIRT
 2 DATE 28 JAN 1973
 2 PLAC Saverne
-1 FAMS @F48@
-1 FAMC @F45@
+1 FAMS @F51@
+1 FAMC @F48@
 0 @I12124@ INDI
 1 NAME Jules /HENRY/
 2 GIVN Jules
@@ -1827,7 +1897,7 @@
 1 BIRT
 2 DATE 10 OCT 1995
 2 PLAC Nancy
-1 FAMC @F46@
+1 FAMC @F49@
 0 @I12125@ INDI
 1 NAME Lili /HENRY/
 2 GIVN Lili
@@ -1836,7 +1906,7 @@
 1 BIRT
 2 DATE 01 DEC 2002
 2 PLAC Metz
-1 FAMC @F46@
+1 FAMC @F49@
 0 @I12126@ INDI
 1 NAME Louis /BIGET/
 2 GIVN Louis
@@ -1845,7 +1915,7 @@
 1 BIRT
 2 DATE 21 JUL 2002
 2 PLAC Niort
-1 FAMC @F47@
+1 FAMC @F50@
 0 @I12127@ INDI
 1 NAME Marcel /BIGET/
 2 GIVN Marcel
@@ -1854,7 +1924,7 @@
 1 BIRT
 2 DATE 09 JAN 2008
 2 PLAC Niort
-1 FAMC @F47@
+1 FAMC @F50@
 0 @I12128@ INDI
 1 NAME Thomas /CUEILHES/
 2 GIVN Thomas
@@ -1863,7 +1933,7 @@
 1 BIRT
 2 DATE 20 MAR 2005
 2 PLAC Thionville
-1 FAMC @F48@
+1 FAMC @F51@
 0 @IA12031@ INDI
 1 NAME René /RUEFF/
 2 GIVN René
@@ -1878,7 +1948,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12031.jpg
 2 FORM JPG
-1 FAMS @F49@
+1 FAMS @F52@
 0 @IA12032@ INDI
 1 NAME Antoine /WIEST/
 2 GIVN Antoine
@@ -1893,7 +1963,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12032.jpg
 2 FORM JPG
-1 FAMS @F50@
+1 FAMS @F53@
 0 @IA12033@ INDI
 1 NAME Marie Noëlle /RUEFF/
 2 GIVN Marie Noëlle
@@ -1905,9 +1975,9 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12033.jpg
 2 FORM JPG
-1 FAMS @F51@
-1 FAMS @F52@
-1 FAMC @F49@
+1 FAMS @F54@
+1 FAMS @F55@
+1 FAMC @F52@
 0 @IA12034@ INDI
 1 NAME Jean Marc /CORDONNIER/
 2 GIVN Jean Marc
@@ -1919,7 +1989,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12034.jpg
 2 FORM JPG
-1 FAMS @F51@
+1 FAMS @F54@
 0 @IA12035@ INDI
 1 NAME Frédéric /BASING/
 2 GIVN Frédéric
@@ -1931,7 +2001,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12035.jpg
 2 FORM JPG
-1 FAMS @F52@
+1 FAMS @F55@
 0 @IA12036@ INDI
 1 NAME Simon /CORDONNIER/
 2 GIVN Simon
@@ -1943,7 +2013,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12036.jpg
 2 FORM JPG
-1 FAMC @F51@
+1 FAMC @F54@
 0 @IA12037@ INDI
 1 NAME Elsa /CORDONNIER/
 2 GIVN Elsa
@@ -1955,8 +2025,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12037.jpg
 2 FORM JPG
-1 FAMS @F53@
-1 FAMC @F51@
+1 FAMS @F56@
+1 FAMC @F54@
 0 @IA12038@ INDI
 1 NAME Ethan /PROVOT/
 2 GIVN Ethan
@@ -1968,7 +2038,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12038.jpg
 2 FORM JPG
-1 FAMS @F53@
+1 FAMS @F56@
 0 @IA12039@ INDI
 1 NAME Charlotte /BASING/
 2 GIVN Charlotte
@@ -1980,7 +2050,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12039.jpg
 2 FORM JPG
-1 FAMC @F52@
+1 FAMC @F55@
 0 @IA12040@ INDI
 1 NAME Georges-Pierre /RUEFF/
 2 GIVN Georges-Pierre
@@ -1992,8 +2062,8 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12040.jpg
 2 FORM JPG
-1 FAMS @F54@
-1 FAMC @F49@
+1 FAMS @F57@
+1 FAMC @F52@
 0 @IA12041@ INDI
 1 NAME Annabelle /GEANTET/
 2 GIVN Annabelle
@@ -2001,7 +2071,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1984
-1 FAMS @F54@
+1 FAMS @F57@
 0 @IA12042@ INDI
 1 NAME Adam /RUEFF GEANTET/
 2 GIVN Adam
@@ -2013,7 +2083,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12042.jpg
 2 FORM JPG
-1 FAMC @F54@
+1 FAMC @F57@
 0 @IA12043@ INDI
 1 NAME Ella /RUEFF GEANTET/
 2 GIVN Ella
@@ -2025,7 +2095,7 @@
 1 OBJE
 2 FILE https://raw.githubusercontent.com/AJB1000/gb/main/photos/A12043.jpg
 2 FORM JPG
-1 FAMC @F54@
+1 FAMC @F57@
 0 @I30000@ INDI
 1 NAME Joachim /FUTTERER/
 2 GIVN Joachim
@@ -2036,7 +2106,7 @@
 2 PLAC Rotenfels Winkel Allemagne
 1 DEAT
 2 PLAC La Walk
-1 FAMS @F55@
+1 FAMS @F58@
 0 @I30001@ INDI
 1 NAME Adèle Joséphine /BRUNAGEL/
 2 GIVN Adèle Joséphine
@@ -2048,13 +2118,13 @@
 1 DEAT
 2 DATE 13 APR 1905
 2 PLAC La Walk
-1 FAMS @F55@
+1 FAMS @F58@
 0 @I31000@ INDI
 1 NAME Charles /BRUNAGEL FUTTERER/
 2 GIVN Charles
 2 SURN BRUNAGEL FUTTERER
 1 SEX M
-1 FAMC @F62@
+1 FAMC @F65@
 0 @I32000@ INDI
 1 NAME Adèle /FUTTERER/
 2 GIVN Adèle
@@ -2062,7 +2132,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1893
-1 FAMC @F55@
+1 FAMC @F58@
 0 @I33000@ INDI
 1 NAME Thérèse /FUTTERER/
 2 GIVN Thérèse
@@ -2070,7 +2140,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1895
-1 FAMC @F55@
+1 FAMC @F58@
 0 @I34000@ INDI
 1 NAME Joseph Joachim /FUTTERER/
 2 GIVN Joseph Joachim
@@ -2078,26 +2148,26 @@
 1 SEX M
 1 BIRT
 2 DATE 1897
-1 FAMS @F56@
-1 FAMC @F55@
+1 FAMS @F59@
+1 FAMC @F58@
 0 @I35000@ INDI
 1 NAME Antoine /FUTTERER/
 2 GIVN Antoine
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F58@
 0 @I36000@ INDI
 1 NAME Paul /FUTTERER/
 2 GIVN Paul
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F58@
 0 @I37000@ INDI
 1 NAME Jérome /FUTTERER/
 2 GIVN Jérome
 2 SURN FUTTERER
 1 SEX M
-1 FAMC @F55@
+1 FAMC @F58@
 0 @I34001@ INDI
 1 NAME Madeleine /RUCH/
 2 GIVN Madeleine
@@ -2109,8 +2179,8 @@
 1 DEAT
 2 DATE 28 DEC 1983
 2 PLAC Mertzwiller 67
-1 FAMS @F56@
-1 FAMC @F59@
+1 FAMS @F59@
+1 FAMC @F62@
 0 @I34002@ INDI
 1 NAME Madeleine /FUTTERER/
 2 GIVN Madeleine
@@ -2121,7 +2191,7 @@
 1 DEAT
 2 DATE 1962
 2 PLAC Strasbourg 67
-1 FAMC @F56@
+1 FAMC @F59@
 0 @I40000@ INDI
 1 NAME Henri /RUCH/
 2 GIVN Henri
@@ -2132,7 +2202,7 @@
 2 GIVN Margaretha
 2 SURN LINDENMANN
 1 SEX F
-1 FAMS @F57@
+1 FAMS @F60@
 0 @I41000@ INDI
 1 NAME Jacques /RUCH/
 2 GIVN Jacques
@@ -2143,9 +2213,9 @@
 1 DEAT
 2 DATE 15 JUL 1950
 2 PLAC Mertzwiller 67
-1 FAMS @F58@
-1 FAMS @F59@
-1 FAMC @F63@
+1 FAMS @F61@
+1 FAMS @F62@
+1 FAMC @F66@
 0 @I41001@ INDI
 1 NAME Sophie /DOCK/
 2 GIVN Sophie
@@ -2153,7 +2223,7 @@
 1 SEX F
 1 DEAT
 2 DATE 08 MAR 1905
-1 FAMS @F58@
+1 FAMS @F61@
 0 @I41002@ INDI
 1 NAME Madeleine Sophie /BOWE/
 2 GIVN Madeleine Sophie
@@ -2163,7 +2233,7 @@
 2 DATE 17 FEB 1869
 1 DEAT
 2 DATE 26 APR 1948
-1 FAMS @F59@
+1 FAMS @F62@
 0 @I42000@ INDI
 1 NAME Henri /RUCH/
 2 GIVN Henri
@@ -2171,7 +2241,7 @@
 1 SEX M
 1 BIRT
 2 DATE 01 APR 1894
-1 FAMC @F58@
+1 FAMC @F61@
 0 @I43000@ INDI
 1 NAME Georges /RUCH/
 2 GIVN Georges
@@ -2179,7 +2249,7 @@
 1 SEX M
 1 BIRT
 2 DATE 06 AUG 1897
-1 FAMC @F59@
+1 FAMC @F62@
 0 @I44000@ INDI
 1 NAME Charles /RUCH/
 2 GIVN Charles
@@ -2187,7 +2257,7 @@
 1 SEX M
 1 BIRT
 2 DATE 02 NOV 1898
-1 FAMC @F59@
+1 FAMC @F62@
 0 @I45000@ INDI
 1 NAME Caroline /RUCH/
 2 GIVN Caroline
@@ -2195,7 +2265,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 DEC 1901
-1 FAMC @F59@
+1 FAMC @F62@
 0 @I46000@ INDI
 1 NAME Marguerite /RUCH/
 2 GIVN Marguerite
@@ -2203,18 +2273,20 @@
 1 SEX F
 1 BIRT
 2 DATE 09 SEP 1904
-1 FAMC @F59@
+1 FAMC @F62@
 0 @INN01@ INDI
 1 NAME  /?/
 2 SURN ?
 1 SEX M
-1 FAMS @F47@
-1 FAMS @F48@
+1 FAMS @F40@
+1 FAMS @F50@
+1 FAMS @F51@
 0 @INN02@ INDI
 1 NAME  /?/
 2 SURN ?
 1 SEX F
-1 FAMS @F46@
+1 FAMS @F39@
+1 FAMS @F49@
 0 @F1@ FAM
 1 HUSB @IA1@
 1 WIFE @IA2@
@@ -2368,6 +2440,12 @@
 2 DATE 22 FEB 2006
 2 PLAC (UL)
 0 @F18@ FAM
+1 HUSB @I14200@
+1 WIFE @I14202@
+1 MARR
+2 DATE 1978
+2 PLAC Strasbourg (divorcé)
+0 @F19@ FAM
 1 HUSB @I12004@
 1 WIFE @I12003@
 1 MARR
@@ -2375,7 +2453,7 @@
 2 PLAC Strasbourg
 1 CHIL @I12005@
 1 CHIL @I12006@
-0 @F19@ FAM
+0 @F20@ FAM
 1 HUSB @I12008@
 1 WIFE @I12005@
 1 MARR
@@ -2383,7 +2461,7 @@
 2 PLAC Clamart (Divorcée)
 1 CHIL @I12009@
 1 CHIL @I12010@
-0 @F20@ FAM
+0 @F21@ FAM
 1 HUSB @I12007@
 1 WIFE @I12006@
 1 MARR
@@ -2391,10 +2469,10 @@
 2 PLAC Strasbourg
 1 CHIL @I12011@
 1 CHIL @I12012@
-0 @F21@ FAM
+0 @F22@ FAM
 1 HUSB @I12009@
 1 WIFE @I12013@
-0 @F22@ FAM
+0 @F23@ FAM
 1 HUSB @I15000@
 1 WIFE @I15001@
 1 MARR
@@ -2404,7 +2482,7 @@
 1 CHIL @I15200@
 1 CHIL @I15400@
 1 CHIL @I15300@
-0 @F23@ FAM
+0 @F24@ FAM
 1 HUSB @I15201@
 1 WIFE @I15200@
 1 MARR
@@ -2412,19 +2490,19 @@
 2 PLAC Morschwiller le Bas
 1 CHIL @I15202@
 1 CHIL @I15203@
-0 @F24@ FAM
+0 @F25@ FAM
 1 HUSB @I15202@
 1 WIFE @I15202.1@
 1 CHIL @I15204@
-0 @F25@ FAM
+0 @F26@ FAM
 1 HUSB @I15202@
 1 WIFE @I15202.2@
 1 CHIL @I15205@
-0 @F26@ FAM
+0 @F27@ FAM
 1 HUSB @I15203@
 1 WIFE @I15206@
 1 CHIL @I15207@
-0 @F27@ FAM
+0 @F28@ FAM
 1 HUSB @I15100@
 1 WIFE @I15101@
 1 MARR
@@ -2432,43 +2510,43 @@
 2 PLAC Cernay
 1 CHIL @I15102@
 1 CHIL @I15104@
-0 @F28@ FAM
+0 @F29@ FAM
 1 HUSB @I15401@
 1 WIFE @I15400@
 1 CHIL @I15402@
 1 CHIL @I15403@
-0 @F29@ FAM
+0 @F30@ FAM
 1 HUSB @I15103@
 1 WIFE @I15102@
 1 CHIL @I15106@
 1 CHIL @I15107@
 1 CHIL @I15108@
-0 @F30@ FAM
+0 @F31@ FAM
 1 HUSB @I15104@
 1 WIFE @I15105@
 1 CHIL @I15110@
 1 CHIL @I15111@
-0 @F31@ FAM
+0 @F32@ FAM
 1 HUSB @I14300@
 1 WIFE @I14301@
 1 MARR
 2 DATE 21 FEB 1975
 1 CHIL @I14302@
 1 CHIL @I14303@
-0 @F32@ FAM
+0 @F33@ FAM
 1 HUSB @I14304@
 1 WIFE @I14302@
 1 MARR
 2 DATE 21 JUL 2007
 1 CHIL @I14305@
-0 @F33@ FAM
+0 @F34@ FAM
 1 HUSB @I14306@
 1 WIFE @I14303@
 1 MARR
 2 DATE 11 JUN 2011
 1 CHIL @I14307@
 1 CHIL @I14308@
-0 @F34@ FAM
+0 @F35@ FAM
 1 HUSB @I14100@
 1 WIFE @I14101@
 1 MARR
@@ -2476,24 +2554,33 @@
 2 PLAC Wisches (67)
 1 CHIL @I14110@
 1 CHIL @I14120@
-0 @F35@ FAM
+0 @F36@ FAM
 1 HUSB @I14110@
 1 WIFE @I14111@
 1 MARR
 2 DATE UL
 1 CHIL @I14112@
 1 CHIL @I14113@
-0 @F36@ FAM
+0 @F37@ FAM
 1 HUSB @I13001@
 1 WIFE @I13000@
 1 CHIL @I13002@
 1 CHIL @I13005@
 1 CHIL @I13006@
-0 @F37@ FAM
+0 @F38@ FAM
 1 HUSB @I13003@
 1 WIFE @I13002@
 1 CHIL @I13004@
-0 @F38@ FAM
+1 CHIL @I13009@
+0 @F39@ FAM
+1 HUSB @I13005@
+1 WIFE @INN02@
+1 CHIL @I13007@
+1 CHIL @I13008@
+0 @F40@ FAM
+1 HUSB @INN01@
+1 WIFE @I13006@
+0 @F41@ FAM
 1 HUSB @I14401@
 1 WIFE @I14400@
 1 MARR
@@ -2501,63 +2588,63 @@
 2 PLAC Rouen (Divorcée 19/03/2002)
 1 CHIL @I14402@
 1 CHIL @I14406@
-0 @F39@ FAM
+0 @F42@ FAM
 1 HUSB @I14402@
 1 WIFE @I14403@
 1 CHIL @I14404@
 1 CHIL @I14405@
-0 @F40@ FAM
+0 @F43@ FAM
 1 HUSB @I14406@
 1 WIFE @I14407@
 1 CHIL @I14408@
 1 CHIL @I14409@
-0 @F41@ FAM
+0 @F44@ FAM
 1 HUSB @I12040@
 1 WIFE @I12041@
 1 MARR
 2 PLAC (Divorcé)
 1 CHIL @I12500@
 1 CHIL @I12504@
-0 @F42@ FAM
+0 @F45@ FAM
 1 HUSB @I12040@
 1 WIFE @I12042@
 1 MARR
 2 PLAC (Divorcé)
 1 CHIL @I12507@
-0 @F43@ FAM
+0 @F46@ FAM
 1 HUSB @I12500@
 1 WIFE @I12501@
 1 MARR
 2 DATE 05 JUL 2008
 2 PLAC Rennes
 1 CHIL @I12502@
-0 @F44@ FAM
+0 @F47@ FAM
 1 HUSB @I20200@
 1 WIFE @I12504@
 1 CHIL @I12505@
 1 CHIL @I12506@
-0 @F45@ FAM
+0 @F48@ FAM
 1 HUSB @I12021@
 1 WIFE @I12020@
 1 CHIL @I12120@
 1 CHIL @I12121@
 1 CHIL @I12122@
 1 CHIL @I12123@
-0 @F46@ FAM
+0 @F49@ FAM
 1 HUSB @I12121@
 1 WIFE @INN02@
 1 CHIL @I12124@
 1 CHIL @I12125@
-0 @F47@ FAM
+0 @F50@ FAM
 1 HUSB @INN01@
 1 WIFE @I12122@
 1 CHIL @I12126@
 1 CHIL @I12127@
-0 @F48@ FAM
+0 @F51@ FAM
 1 HUSB @INN01@
 1 WIFE @I12123@
 1 CHIL @I12128@
-0 @F49@ FAM
+0 @F52@ FAM
 1 HUSB @IA12031@
 1 WIFE @IA12030@
 1 MARR
@@ -2565,13 +2652,13 @@
 2 PLAC Strasbourg (divorcés)
 1 CHIL @IA12033@
 1 CHIL @IA12040@
-0 @F50@ FAM
+0 @F53@ FAM
 1 HUSB @IA12032@
 1 WIFE @IA12030@
 1 MARR
 2 DATE 09 OCT 1991
 2 PLAC Chateau-Voué
-0 @F51@ FAM
+0 @F54@ FAM
 1 HUSB @IA12034@
 1 WIFE @IA12033@
 1 MARR
@@ -2579,24 +2666,24 @@
 2 PLAC Strasbourg (Divorcés)
 1 CHIL @IA12036@
 1 CHIL @IA12037@
-0 @F52@ FAM
+0 @F55@ FAM
 1 HUSB @IA12035@
 1 WIFE @IA12033@
 1 MARR
 2 DATE 29 JUN 2017
 2 PLAC Bar-le-Duc
 1 CHIL @IA12039@
-0 @F53@ FAM
+0 @F56@ FAM
 1 HUSB @IA12038@
 1 WIFE @IA12037@
-0 @F54@ FAM
+0 @F57@ FAM
 1 HUSB @IA12040@
 1 WIFE @IA12041@
 1 MARR
 2 PLAC Divorcés
 1 CHIL @IA12042@
 1 CHIL @IA12043@
-0 @F55@ FAM
+0 @F58@ FAM
 1 HUSB @I30000@
 1 WIFE @I30001@
 1 CHIL @I32000@
@@ -2605,19 +2692,19 @@
 1 CHIL @I35000@
 1 CHIL @I36000@
 1 CHIL @I37000@
-0 @F56@ FAM
+0 @F59@ FAM
 1 HUSB @I34000@
 1 WIFE @I34001@
 1 CHIL @I14001@
 1 CHIL @I34002@
-0 @F57@ FAM
+0 @F60@ FAM
 1 HUSB @I40001@
 1 WIFE @I40001@
-0 @F58@ FAM
+0 @F61@ FAM
 1 HUSB @I41000@
 1 WIFE @I41001@
 1 CHIL @I42000@
-0 @F59@ FAM
+0 @F62@ FAM
 1 HUSB @I41000@
 1 WIFE @I41002@
 1 CHIL @I34001@
@@ -2625,17 +2712,17 @@
 1 CHIL @I44000@
 1 CHIL @I45000@
 1 CHIL @I46000@
-0 @F60@ FAM
+0 @F63@ FAM
 1 HUSB @I10001.1@
 1 WIFE @I10001.2@
 1 CHIL @I10001@
-0 @F61@ FAM
+0 @F64@ FAM
 1 HUSB @I15402@
 1 CHIL @I15404@
-0 @F62@ FAM
+0 @F65@ FAM
 1 WIFE @I30001@
 1 CHIL @I31000@
-0 @F63@ FAM
+0 @F66@ FAM
 1 HUSB @I40000@
 1 WIFE @I40001@
 1 CHIL @I41000@
