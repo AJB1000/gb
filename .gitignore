@@ -1,5 +1,6 @@
 archives/
 pages/
+libs/
 *.md
 *.sh
 *.zip
