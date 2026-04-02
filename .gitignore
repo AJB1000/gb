@@ -1,11 +1,11 @@
 archives/
 pages/
 libs/
-*.md
-*.sh
-*.zip
-dummy.*
 genealogie.py
 genealogie.csv
 genealogie.xlsx
 genealogie_old.py
+*.md
+*.sh
+*.zip
+dummy.*
